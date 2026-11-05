@@ -1,0 +1,14 @@
+{
+  "original_history_seconds": 0.1987285330001214,
+  "csv_only_seconds": 0.0004341690000728704,
+  "tested_epochs": 47,
+  "csv_bytes_identical": true,
+  "learning_functions_unchanged": [
+    "train_epoch",
+    "evaluate",
+    "make_loader",
+    "save_checkpoint",
+    "forward"
+  ],
+  "final_plot_created": true
+}

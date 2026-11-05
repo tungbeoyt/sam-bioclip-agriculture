@@ -1,0 +1,3494 @@
+{
+  "classes": [
+    "Tomato___Bacterial_spot",
+    "Tomato___Early_blight",
+    "Tomato___Late_blight",
+    "Tomato___Leaf_Mold",
+    "Tomato___Septoria_leaf_spot",
+    "Tomato___Spider_mites Two-spotted_spider_mite",
+    "Tomato___Target_Spot",
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "Tomato___Tomato_mosaic_virus",
+    "Tomato___healthy"
+  ],
+  "rows": [
+    {
+      "path": "Tomato Early blight leaf/test_099e4112cbfa.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "16623611c26b8fd925b2e640ec6eed4785e444669cf0a71f48603ff1e0b5649d"
+    },
+    {
+      "path": "Tomato Early blight leaf/test_485af5ecf068.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "073e6449725754372143bf105b4f8f3bf2fe62378bb4e51ca7f8a63c68a88b89"
+    },
+    {
+      "path": "Tomato Early blight leaf/test_5999a21b8236.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "ab9afa2be35a8a606fd05c1758cd7f595883c1eed8919b5a97291105bd08b3a2"
+    },
+    {
+      "path": "Tomato Early blight leaf/test_70a1e4f86b8a.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "2a93ca19643b36ddf508c7a4797f84616973e58e7d9ab012dbc5d9bdfcafc6c5"
+    },
+    {
+      "path": "Tomato Early blight leaf/test_71e43ba42e54.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "5eab9a4e9cf45ac33fabad2e9a36e7167aa2648cd725832506753aa9fd16f1d0"
+    },
+    {
+      "path": "Tomato Early blight leaf/test_889c7b5a0772.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "1fa0f134b3c57407523dc44896efb46cbb9a847ae688e846268f97ee6e62c68a"
+    },
+    {
+      "path": "Tomato Early blight leaf/test_a5352cec9c1c.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "c80cae267968c3c46bc60beef53d26072de4ab7c20b2323a11720edbe29b7358"
+    },
+    {
+      "path": "Tomato Early blight leaf/test_f99acb8dc83d.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "5b4f13274b8c076b46137d95373c17b55cc520d887d2ecf9f842b2c810270232"
+    },
+    {
+      "path": "Tomato Early blight leaf/test_fc5720363995.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "496bb8047a8b15d195b99924139127916fd68ed4fa4b9e06d7ec66b3084112e3"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_013721942051.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "bd2dca7976ebe95417d013c5e6f1b8b82c51f87766ccfcd9101c9c9497b1808a"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_0219a4a421a7.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "a12472aab3872fe09543137e342dbae688bfa7812204d7898bbcc69d21b87f01"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_0880a52f0e6a.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "c6e0fa241df139dbc363b46c3440d342e229a684699f42a8cd6b66dff82c7c99"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_09774748d7d8.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "4a4232a6fb04d7f295636eabc7821c6f4343784d4cfe153b89f4a3dd27053b63"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_0a325e32bbb1.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "0822cea186726aeb14693de9cb6ee6f95333faaf59090c259feca28c8ae1a780"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_0b3d0b42133d.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "26f83d5d3823bc824a620548e69ebb74123b9e34b7317b03c494c283e079548b"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_10ab8ee67e89.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "338d1cd4699504bb79663c5ca3afb1e1c3c480cb40c670234665eb4efa0643ec"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_1355a5545b78.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "99834192efa4127fc38420206ccbc4131e36b20570ae1d75dcbf021245cae79b"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_15c8eafe9c29.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "657b3051518908d597056e516aa4ee93185e42dbc6fc3f17c89fd28b0c6f9a9d"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_1bb885a844d2.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "fd65b4bf39c262c3defa2ffa78a30b9b3633a53c06c3418bcedce4b1fd41d21d"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_1f9058bb73a8.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "38cd03108277daf52200a3e2dd0e2cab10375e811e1aed877637c74e5c801f49"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_1ffd6408bb36.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "683c154a2a6f28f910d07424bdb1ae179c4b9d10c18c2fc908a2e69d587d5b55"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_2334c543b324.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "a0a50d41bd9d3946862a3687bfd7ffbf0497aa12324afd9de1e7f99c04c3e37e"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_24e475ae0898.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "db39e8170311ba50328858adc2ed597710508975120374c8e9d166d30e30d827"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_277bce3deeb5.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "e827b97f1d0d66e93cb3a0ea7b19a948d476896e8de25a51d20b795b28054a54"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_29992d1d567f.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "1b70ab865568466c9690d5d9f033eaf864a7d567318fd89b8079d49d00ed16dc"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_2c2e32cae863.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "0e9906e323349c21f1c71d9c61abe58f1c49a674736699d79cfc77369311a2c6"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_2d273a21a91b.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "054ef97e7d4f0f3931bcca1f86f568ada367155d60b45c03726715d4d4c265ec"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_2f4bfbdb0187.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "d0c20b5edb1d40178136245e05e3341d85e7832dde9c1b8ec747f3a3b9916729"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_2fd8114db05c.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "0ecb163cae84b2f51664fedf81675d4507e9a888420d47e6abb6be75cdc2de62"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_311d0f3f041c.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "2e8c35b261b48262e6a3a878c748788066fb19db231667398310fc6cd35d7bdd"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_355138bee765.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "881e017410ed281550281eee9708e2e2633c71d8acc2784c5ec7f74d8c0abce5"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_381ac1c67cfb.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "f287e6a01d9c55b0f8ffa09b223a1f271bbc6ccb2ff1e3ef1cbcd7c4be277c7e"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_39a61addbaba.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "69ef4e87bbbb0e7a5954538640367505f69d3375a00b85ef4fa3e2064c25f246"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_3cde5759a0a7.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "9ffd4f5669ea189340abb01f4d4b46223158b5ef7fa09a8123eff55744c7bd15"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_57f58adb47b6.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "b6631c72837322498a76094123acaa7a5d31ba1f34ba4d0c8b357d02809720f5"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_5b34ab13e096.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "97b7809c09c4d63654449e4ed1beb973faa43cf48114232e51164c55d0a14d56"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_5b97376bfb41.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "ee9e99d87f2380d7e58ca461e544ace08dfd99a7f39c6f95d0284996cd7d8cc9"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_5c260ccaa518.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "2c77da4aab973c3c27955d3a6495531a17f7aca508503c69d05e21a04d4d837c"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_5e4917c3584d.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "f67e1720a5ca7d5793329f1f040bc12c8ee493250db1e90a3a52233fdb282b8d"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_64ac65f842a5.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "44bb9c87fc431891d8bf6e16bcad3642b6d61eb1aa8177fc117eefdfe519bfbf"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_694bf3fa91d1.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "ad903a5894839dde67d2f66bcf0d448255f9e1868cd6ae4b61f036d348b3b63e"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_74f63e08d3ed.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "5b14be8f73fad3f299740ae6a903918f0de141155ed529bb8dfa694be45fe530"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_77a3b789c327.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "ede5efd71fff377f39668324f5639a40640822f894ade6e91ad64df6cfd90b51"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_7c7d8fd95c8f.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "49a2417904c574eb1a8824bb62e9d370cd4c83393b42d6c02742b86cd8599777"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_846ce218a5a1.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "7cf47bcaf2ea99940fe8fec8b934863a269b98e890ece361de11362670715896"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_84d7b97a312b.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "eab05a664d8bf1c3079d7dcba82836713d5827906dee95a09b552c6395ce3bef"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_85a34088ef7e.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "484f65cab62b160fc3e5339b4cfc00eac0cad5c0e5d5bb536225e65d22eca8d0"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_85d36df42ec9.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "2f6e851e52e8bf4409978b86770055843d8f4ef5fe0869da4bebe811cbfbb906"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_87eb4d1f3eb7.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "3e56621481af44e52fa26c148c0101dd58b07877b8e46aa89a52cf866568e688"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_892d297da55f.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "439b95ba1c170175cf74a3206fd8d09c05e5f9eb330515e8de79694a8a9bc2fe"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_8c4a0a25ec7f.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "a53d731006836251c7dfe67ca2ae9efbf685131b633a5b3c7f8927019cd8a5bc"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_8f904cea8d98.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "fbc97163176a4e206546381a677ae0d8040f1485e9c560d0391effef5cb5d62f"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_8fc0b9b76d93.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "6a4213a698fada32588eeefebcd0a77014d42d66ebde0ceffa648d0caa0b0e5a"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_95d3f41960bd.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "7cea254431c585e66cb34752cbee8e9fc3fe076581ac9f30b59ed3d8e8b53acf"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_a02c59621927.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "be8834ebf755ae2aaaaa96fc892377176b69088efa3c2397b8e29c35dc341350"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_a88f5f9bd0b6.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "8a6fab6f502b84b0c997d75d3ccde0dd6421fb9716735c5806d4df75482bb1c6"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_a943f1097f2b.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "c8ef30449bd9d6081122f4e78beaff7e7103997cb7534b3be1303f434658fbfe"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_b8334841cd96.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "4a212a534a6aefe99fe446c15b00e20b3c6b8d1e103521684386825c515f1abc"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_b9c3b5d182d8.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "944e200d5760d2a2fce8fb5c3c409b35a64ae059e6ddeaaf9f0f0c4c1bf0b4c8"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_ba39dddc7515.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "d9d037271e0945c62185c8f5a83dd0818cb5076c9f4a07a31a1341fb0111b3fd"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_babda9f605fa.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "86d5f94b67bdb136bbfd29a0b3f019535cdabae1a1f59677abf740d72fcc4bcb"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_bec1c97a956a.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "5cf709deaefb4b0262f6e07bf1b543e602592588d90323b9f3544248ef815266"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_c464ad85e0b8.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "257306b32fbc0e7eb5e787329873e36232cda11e233c8cfdf2198646369822b7"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_c5f83ca6a50c.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "4d75bdc80a53c052c59b9dc967954eee730ccb03291cb05e4b21950af936fe4f"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_c64a70e81a99.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "54f543698bd6eae3187759d3563ee28113a6e3617b448e3dcc1770e04206b957"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_c763083c0fdb.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "740d24a5cff123b3f928ee4cadc61c9066e32dd0cb1f41db9e17ec3219f33c42"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_cfd826799f16.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "43620355221dd36bf440149c122b1fcf5ba4fcab89e91911b2c1ea46d90ee80e"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_d391afa23542.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "b512798b73acb5eec29111881d15509743b99b958b1c9c42e41a21dfe112cb90"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_d744431f5c29.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "0cb210588ba4f12e4eb11963912dedc8d3e29e0eb43e7b10bb607ae1bf7fa5c6"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_e01af99c7bb4.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "10b221c25b22eb452d9337b77d6176e35b37522cadc131f1b6c522e4ea0f4d37"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_e6774ea49eb2.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "ce55995dc2f9470650458dd3b35114ed905d175fe6dd69bd039ee2121dd16ada"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_e6bdc9f2adbd.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "f471eb0d3b3327bffc53b37f9e8bf4810d4b73ffbefd9f46dbe8fa702b72acb4"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_e8cb30626dda.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "a7089b53e329e428c5a8639566079b971e4d01396cce3a0855c100ae7bfb392c"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_e91e8820f4d7.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "fb7aae3fab8080109bbe074c99e5d8c443476baeae4b1263e35d2f0df71d7e6f"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_ed4b17fad891.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "9ea27f0464300119ac2db00d39029a1de9548a69f1154de8d6fd5b4b305fdbb0"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_ef77e8947935.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "2bee45bf4a0aaeb0628b482f63674c2c3aef8891ab83e9d997ea4536ea5dab33"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_f2bd97ecfd32.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "5fbf4fc9a59ebd0bc7ef8ad6985c2c5409f4508188aa58882bb890d38ab7a461"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_f3c056703e2e.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "fa662861a765c00ab6a259111cc37ae6dc3b2dd940a172308789ecafb0e92709"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_f80a56ab5382.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "598c94916c25f91e2e655a61bb6443eabafadb22de6bb616c33bb1d209a204a3"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_f94487e65cbd.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "42f1498aa55b7d2fdda305440f930759f953749313840ac27a68354322c7f297"
+    },
+    {
+      "path": "Tomato Early blight leaf/train_feefe8ea3379.jpg",
+      "label": 1,
+      "class": "Tomato___Early_blight",
+      "pixel_sha256": "e10394b38ca6389853dacdc5730a4eb45878dbf07f7e084b9db853656a989cc7"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/test_1420ecc71974.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "4e7034707fd0529e1dc75cf308b1433a5f33904444ef498d04c8caaeb1b6a2d1"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/test_388d55adc151.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "d8f7831bd8fba9bb263e05f74c841f614e63f29b6cf904b1510c1c6d3b8ec3f0"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/test_492b81ce5187.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "19ae8e809a5fc57afaf0b11b5fa2b1064cb6495219c598cdbed72313074daa4a"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/test_5602ffbbdb92.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "8d29e8f1319c5512dae80f543508ecd7433e714de4a67bf6985552331dd604a8"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/test_6ab79e27b1ad.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "1dcf0f8d5710805c53b234678072b830f6cae4e7b6bb05448509f4cb09d1af0d"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/test_6f412c63b5ae.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "1cef1da852a3b78c1fdc2ad93e355d358a25b0c187efd8254858d71d4966f775"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/test_7e993ec2eb4f.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "20b067199e5c1d5e89a41a40499d9b9ec1a2d2b7a343530abe5d2a97effa4736"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/test_8c9f4d7f18eb.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "801e8f028d29b78f0777e9da516c15a4e37e0f26394dd51ca078b16d8f5f2cd1"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/test_93cec1097aa7.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "f8838a77aa4fda43716e112289b9a2584fdf3641614911d7e20e3c9dbe36ff53"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/test_e1bf9529032b.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "a6ed2db1bc2f82032e7e294cd0e94c08213475b1f1f53ea41bcd0b097c4ca0aa"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_01325b8125e7.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "a1eb9d2e55b26a500e24294a6b00faeb20b08bc2c96c3f1f11db1df43c6d3b80"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_024a39e3a225.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "36e772489d02efe8ac58edf6bf8d06b1413cf45f448838834185f07f08c2869a"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_03743f31ff13.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "e5ac1417060fa97552a264659e62b1e877d6d4595d1d62751579c6ac8f33013d"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_046d20937b8c.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "b24a3ecb9721c79b43f055fcc829eb01e2bbdd4e0e3752817d0156ee5e35c591"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_075347ccdc39.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "a8b377d1de042ecf841b2158641c29d3527176ba0b7d6c7c947875c72c73dd9a"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_07f8e3549bb7.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "4812220c603dcb93046ddce6fbbcb1ab2c9bcdc82c47b5106f356e3d635f4c17"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_0d834ba25ba8.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "eba796c1c452c9065cd777bea299af6c22f37c4c962e1e3455d1db01d4ce705a"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_0f6f2ab142c8.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "7579d952a6cd63e594d683402e8722e0c356b2384a0f56c8ebde60614e2d2006"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_1130611ccb9e.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "c7639e8afbad6691c24a8a7fc3a086283f52ff7ea4fdb50a8da0970c9333f8bb"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_13d56f8fb539.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "47b8fd329e7aa56ea402b1ad24dacf7a8e66716b9f555fc2259bacbfa107eeb9"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_13d97ff767bd.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "a07ef453c3d031b123b79af84dd9bdb28787a805f6f783e3f2010574535c6d9b"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_1543e97c04c1.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "4c8e57302f393b167d6eb90432a56139bcfde2a0cb192a4c08e3b328228c331d"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_167567ee81c1.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "9b1a264e13312d7a93e0aa788b346b5235512132749802349f7231cca42f1696"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_168bc3139476.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "f3641ef96ff3435b836988de5efd902ad8c6af5746f10e882b3a7c33db0acc8f"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_1785cf31cc8f.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "e2917ad788e74b63c6b9d5fd2d6be065c37abfc9e8e6a74cc59d719842008dec"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_18b8baf00da3.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "672cae14f26afbbc87b09cd73ca210865897fce6b310ef9c552c87c67cfec8e1"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_2184ec0dac5f.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "ea49e8e36188874da9036fc8760e3d96ebbdd62a981192df89ac8ac5e1989b44"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_21b6e3be54bd.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "803a125bd45266c8358c52545056c0818030d555b18fe7662010ebc473b4fb27"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_21bae60640e4.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "433923e5b03088e3a3dd8b731b7a90775ff32bdca99800f8da388e5e5753f826"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_246b96a43f1b.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "42172c0701d01f13607828f9abd860e551d8777966c0523e1655b2037022a306"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_271b3b4d82aa.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "853157cf9e261f7b62b12d20e2902e2b3d2b4ed1168ca28d444c7d957cfb3b6b"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_28e97ac77bfe.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "ddbfbe50afe837bf8228b57df37dbf14a10b86d14535c63537486013f23f7e03"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_2a0bec1bc4cd.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "894dee0ced22e56e639d393eb710630cf77472bdb5fd9f05d3d8f3c6c29b0d27"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_2bdf67591f11.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "5608f47d0480871454ecfa98c8e1dc5607e91e543ce65100cf6a7af1a2c99a45"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_2e8ec2e5f1bf.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "45c00162a1a9feba4da082f48383abdbb2e9f1bd61d3bb3464cf0304e97dddb1"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_349f92df5c21.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "96b0dded3def1685c23570ce91aa1898b236f16d5f9af1e396c801b581c85df4"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_36bec3071876.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "8b371f41bfb437d8b05730ad8b653ef511548fee91c40be442f071dedf26e36c"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_3725c71f6b07.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "256144f8ba718e6ee46b254a7fb72f1942152c1e771acfa9e31f54b1b166714f"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_39feab5b713d.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "0f5d8296802a44dc41de75ed5a30b2a334d3c00f61e3f1956a9c23fa15c325b3"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_3cbad6c3b110.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "bb7f9a969da0da8b5b4c89892f4ecdd133dee8abc07e7607ea875ee6203a3ae8"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_3f004b03665a.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "1df38cccb4ab65048b1df6b587e833284625a4c5ffa096fc172d39a1d83bce05"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_3fb46cf83a23.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "2a620da0ef65192c3c076393db5afd45a7c52b602ccd368be34d509a3b1c401d"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_404c3f161917.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "d9296425d14452b0db294455113c4a36d8a5a98fd84a90083f59f693b6625fbd"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_40d61a7ef491.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "92a9a400971207a1f04cab9a1b3754ef99defd8d9595df5e4aa43a26f2fd5c93"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_43daca642edc.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "3a874ff2efa0efdbac7baf76d19aac03e4c3c83dcc85bb2a2980a4c9925612e6"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_4542ffea0a33.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "e1498f6fa7dd575be53656b2387c3909f72c5828a88ef36787b886b7343fea60"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_45d7c56aef94.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "7a1891f92e2909b9e10f63d6b61473e8c867311bb8e683d880ce49dae19c7d30"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_474ce258d343.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "452f2ceb24c164af6a275750b33818e6e858f785f13ec752cbfaf773fc5a017b"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_4764a30ce21d.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "3e4d4ae05221a0bae9fcd99e98bce8062e33717fa757194b314bffcb1e82865b"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_47f7673d5552.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "fb07694c113ef32f0339ee8da0bd1150f579b1ef59af5fe5650632a6e162ea59"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_495af56f9ce7.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "9696f3fe2a180ab1e6deb497ba0b519418526857f876c9efd060641d465ad2f4"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_50698adc1ad0.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "d998e280a8ee8cfa15fb0f6956b42d1582b3986428942eb2227842da3462be5c"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_58e76a40509f.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "e325ef785ffbe0e8afa452893f2f9edecda6124497b3c31d1404d836579af2a3"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_59320346ac5f.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "ad1602ade457616556b89a4d1b71d94756fa4ec4443c838695d8890d96cc663a"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_5fe6f179e0ad.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "7c6797574e32afd275af286f328453623ac13fd5613d732c01bddcc024840b2d"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_62e247804cbf.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "fd5954f7048258464ea71ac5bce6203324d35a8f8170c729a200d05add71f674"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_66338b42c7b7.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "4465a74083e3591edf639fdcfeacc1f0b1939d0d60b0cb29ee8d1b979d5b4335"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_66c5fd0b59ac.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "1995289e8ad5558787a8e51dccaa781d4c7962e8124c95ac745e2845d2c5d969"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_68e169e8745a.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "f7e22dd2120a6645c7b956a944f2606a00049e091a2524e3db88c9788528ea26"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_69bbc52e1f5d.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "c4cf7da298bf2ef4f0e7b8b81cc6e26ad544d4366c9b53621106d5733a31ff51"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_6a5d82002a90.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "80d86a27137a7ddadf00b2287587fbe7eddfbda3b49d65e716ebf250a4d1987d"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_6ab6a12bb6c4.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "a5e9d9851c12892a6e3ed3abe9ca472de4b7c107ae1018f3e1f36bb844831907"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_6cf7fd45fa77.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "8e2ca5087e65a6b70ef87a9b29dfcee518a6ffb3ba54b265c7426449323a8617"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_6cfd251d53be.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "8fe13462160a5e25327e9858c949e8061570fa609ac9bf6bb06808fb40caca18"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_6d32ac41281e.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "7960d13ef6282d8a90da879ba629dc0d321b41c669f59fc6e44a2285d9cc6898"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_7376c4940f30.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "4ecdf8a6fd0865304d372196c99704c6d3445b1dca003ac34aa304cad65315e6"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_799f6fadd072.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "f11807ad81df84999066b0691dc4f511d1f19337261591ab911ddbe72c94c88f"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_7b700e3a85b2.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "dfcd5780926dad33f557e4ac469b7ff5a8ca4c9ecfc6afd1a0a0f7b4651d063f"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_7d1fff555d24.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "e5014c5dadf10a6012964cf1d0c38ef6cee8be5a9cdf52319753db2eab426f60"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_7f9addf4c55a.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "efbe886a62d59cbcb4c7846961e91e83306605e4143c13f12d095f5ace53dc64"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_81015642f1a6.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "5626e18e9b5dc44d131b1fdf38083b2b57ef52e37a48f78f6139560bc37d4bc6"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_8403a79d9394.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "6a2671444a4f1d86b6b37913031f9e8b0874b5a799e6e7d804e1db51c8cc5fd0"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_87c35377fb4b.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "532d82d26c03949cdcc4b1af7e04bc498e41a21e0b28eb073b554e8d28af73e7"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_8dfa3d1a2e87.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "b187c3926579a9ddc4fb2bd891eff16d10e1a91805b5739bc1d914af41a50148"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_8ea8020f8a2f.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "97954d4bf412687982bfdb3b1f9f40a8b4386044a57ea9abde8d58184c59a691"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_90cb50406c9c.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "9c63e32c59782948ae9d582d1eeda429e08b2742a64e6a07162b7f3d7dbcde4e"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_914baacb773a.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "813c2adc8b5af702c98c2ef94612c8028a7c50cef6ae77ffc089fea94b83d47e"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_922315f5ed2a.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "9e2ea659a2753fd5b96c3842fa1ab99687237f01d9766de865222ca02a46cdfa"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_927fa92a8888.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "eaed0f74426d6961eb73c9a8360f97cf957fc8e76e1e67c7a3471516a96d3109"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_936933c6bef3.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "2acd00db81c7a0ce5c3c7afe856939904770fba1b823323beb5b296dff47065d"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_99dba97e2a8d.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "b95975e2c603dd916b05f7599cb108aa1540d70e21cda19a537b5eebec2ab11e"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_9bb3b50905c7.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "15342b29d20ebe6b356c7673f66b7ff99c84ca9e095f7f8234e9f73d556f49b6"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_a1a29cb64c24.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "c722344b7d0e6a2f17ba0adfbc4d2b14b4107dac1e1e1abbef9f3939bf7ec273"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_a8746c29aa35.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "961cebedbcc2989c1b632d3cc301e7f21f1b09544fcd427852e76381be6e3e04"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_ada507bbf6a0.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "6a208900b812264888a8aa73e2fdd227e6884d7d0cd08dbc35e3910cfc7e784c"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_af371778bb5e.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "84977eedc8751b50f7184e5f4875d44e0d7dd213d4bda0df08c530d4fe9d7c63"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_b2e0c435fb1b.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "6879a5788c320a00c74daaadf14d2ffe409a6afb890b5ee4212c6be7402a92ee"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_b341e8d88b81.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "60d1721aa1642d1ea3f06e10aff8b8ef313c0c4ede0949783b374f002740f71b"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_b4b4787b1319.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "a00ab76ff7066eec4611741a6f8f18ae832e6e57aba8f4de0585b158230978ef"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_b69b3eaffd6f.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "f10d2f78e857f6f8800eae496d10132e0a928b35349e3eeb88833776fa72aa7a"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_b6ec9f6188a7.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "a973506fc630ad4ae272cf0b966a92cc2634146398993b2c1d524a56fb39e76d"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_b7b21cb6cd54.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "a067197a589b724c8bf40c0bcdb5fdbe1c33f16e8970dff4fcce8e4c90204490"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_b85de53db855.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "65a23930efe1aa15c81bc78dbb3a96fb8a339bb378a96aaebeddfda27d46f51c"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_b8a23b858d6f.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "4aa4e321f67d82725ea67087edb0839bdee0a1c50700ccdd998ecce4cb4f6734"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_baefad91ed7b.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "e02ef7253c514b4580093ecd694211af5a57dbaab591a3cf2ef652d9bfe2246e"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_bbcffd561cf0.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "f899697369c595ade769db8a8e74859be613ecef7334ef52c7e5b3b88c7cb8a9"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_bc7e327ad67a.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "aece3401f02fa2f905b928f3ef3c2e771b0a1f88fc8f28fb54d2ef91e9ec0108"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_bce42aaa5ec4.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "b38b2f590f9af8378921ca85502a4f8cbeee7c3454c0bab0b37c6c887819d4cb"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_bf72964a31fc.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "166dc9881bc0e84698565868758c43122d497fa0b6b2111cd9fd66dd85a08641"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_c2d26de9d879.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "9e782f7231290af2a9435d3bb3aca29531fbc3ed1a881924e10d11db08c9d7e5"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_c37d18a11139.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "b802009e74e9bd2faf7a49698f8253cd7c2a7cf5ecaca78d4ee4cd97c528f83a"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_c43ceab879e9.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "cb1ae11c0fea3fea6682484823b35601c793820ca4922919d5c12ca952afa373"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_c660e9bcb98f.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "5a8f3ba4982472a4dc075c428c23eed9d0c25972277739c506935315b8b158a7"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_cc3af4de87cf.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "460bfa986567e979dd615b14b533d3400e83d93ed25787aeb4403529dbd863cc"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_cd5723917c7b.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "6ac6f1cb46dd9bd45ec02d30fb90833a928e8c64aa75c3a7dd37f28a8ad69f98"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_ce1ecd2920ec.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "4cad0137088d1e037ea82a832089d8b6cb4340503064a09dd9bc5412e8fb3ee9"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_cfde2d7876ba.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "01c456bb1f61e62fddc9a308b659fc8b0232e1fb2944c8bcdda18ebf3a6a181d"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_d10972080073.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "0748d6efd053550c5205611ca681a3d7eedb45b4d9b87436d6fcc0e100c59207"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_d1b13267f8b4.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "feadd54c3a24b6a3586471d48a4b56f122a6509f1586168e07f3787094f393ca"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_d5962d561a4d.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "800d51557f7aab1e654c10db583c68267d273f22384402bbf774a84cd7eafa6a"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_d60a7023de14.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "d28bb70c7e3c16850f540893bb45363ffa5ca719c8c3332a9498c6a24164db94"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_d8a6bfa7ae92.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "8f70180eacb9d97062c49933bb6074d1504a1a1efc5858a6b3363077470c0ae6"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_da5ea04e69af.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "e5541288ba7ee6bcd876cf243b0bab4f9d1afb86c4ebb6f8e1348be78c6bb3a5"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_dc725020d396.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "003559c0dce42fb59c0d3d70653589bb43a51c3573d1b41835f4fc687b040fe9"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_de19e73b9380.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "2db44ccf00a4cfc40bbb5536690b9bd1c961820759a11db5eeff66fc44df0737"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_decdb73355ea.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "3f7b022ef40a0dd56bc173ba670227861fd67835d2a860fc8403f3177013ecc7"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_e02419f5622a.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "3f969fa5164751247bbb76537497587ca4b9261e64af2ab44d9f3a378bf48a40"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_e22938a13874.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "566e08cd178c1978460c3793be387f2f1aadb4156d78b4d3f85ffe492b54304c"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_e3fbde9bd1cb.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "1a654ca87736722e21dd948d5917c8a21bd41673563b1ae9d54b9c2287a235a4"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_e49855ff1656.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "a5105d558755ed8aa36bd2488e678513fdf8664ffe9024042b93c2a12bd0c5d0"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_e67b7c28b87f.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "1a6b7147b2864ad0aa26b27efeffc2cccdad9c8b69f58c42d93cfaa8a127cf5e"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_e6ed38817786.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "7530e6693fa7814c44213d39e1d34829022e0bd9807740bfbaf4a5ddccd61810"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_e83b0c8e094b.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "216e54c5d8bc30e4b49ea3ea184c7fe1fd4c0dafaca939553acec4eb3212e40b"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_ebdfe7dcb493.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "b5cc564c37e1801a92a165b862e1855abd7661075147d68c9f16c19f24759ae9"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_ee157cfe8d8c.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "9c6f4bb87177ba40a486214638394143a2251b1aded0281242b0fc4f38ebc109"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_ee385d2fd731.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "1d66f7307f088a4cbc19100e019a04d165812a86fe9a82a8c0bb74d447b5d62b"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_efde5b10f4ac.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "67e06f04a93c78ed6c1535bdefbe0949082ef9d8d471b9ce1962ba48d229d356"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_f11a1230c4ae.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "67082d597783c72ee26f99b2b12b696718ae76727f2b4d27e1d375c7b224fd3b"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_f43062e57925.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "7f44447090ec057842d1e783362323a11244853204f1bf49b8d2034191a97228"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_f4678ed31d35.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "59a6b95ff9e98a4c0ddea72c8149670d12d5c98fb2c7c810eb1478ec96a8954b"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_f4736ca702bd.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "382f5a9eafe460f461625d627da4083bce6ca8c32747ad445cfd885b7eca7b9e"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_f48ba4a3cf00.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "ea1df762a81da7b795489cbd0759c73df8dab6a58179788ae2256666921f1f5b"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_f6b9b5439a0d.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "461fb5392e62996525a0883293333c824a67cbff08c0879c37787dc9105567a8"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_f74530c49e8b.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "128a4cbaa513e56bd93ffacc6cc932b3a55978e42dbc0c6b8113abb36cc2ac67"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_f930696cd21e.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "68fbb99aaee7cbffc11c63ee700032fb00d6de2c34d73dcb9e3ddfb6b4e0ec2d"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_f98e4ee35577.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "7ddd7ccca2eb0dc2290796a504518d0673847e945828289c9223edde10c39d40"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_f9b1119992bf.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "5e60db99e23a24187ad3e18894870a63a179795b334dd71dab19dd5ff7967b94"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_fbe3e673df68.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "c5785f31bee2642b24d80daa39f3abd77663a9f2f37dd4f602e6874be7950cec"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_fbe55ff70b1d.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "d39cd832011842b7bc8cde861c0da9fb1c563e48e4ea0930f918446a7ac6f602"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_fc742cbaf8cb.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "bc5dbbd4355b2fcba4b3697bb963a53a4ee42890d503cfade685c81340df4dbf"
+    },
+    {
+      "path": "Tomato Septoria leaf spot/train_ffb179096dd9.jpg",
+      "label": 4,
+      "class": "Tomato___Septoria_leaf_spot",
+      "pixel_sha256": "d1e7edcba8c552e8071a901f3aab792faa37f73d664099f486130fbdc26361d9"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/test_09d9d252d2e2.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "1fbd066a6447345f933cfa2082bb6d214bf996750bccde3113b1f338ece291ba"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/test_66d8f711e65d.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "47ab864a7db15e029b5507d3211c134e8aa99336f85df295e743a1bea7ae2dd3"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/test_93f9bc49a9af.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "9d45de99c337e2eaea94a249ba1ebf3c145d7946b5293028abb52098f3c7e8e7"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/test_9f47e9c5cb77.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "60e7185f468d195806f782f61ab0e353b3b9fc3694e1de911633c43bf6e3cb5d"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/test_bd04ab312756.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "8b407acbc1fd58cf7305f7fc714e85b454742f9c98957ab253b67550a78d451c"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/test_c457d26fd66a.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "696b45d13d4194cd3fe65effb48694fb9b00ba089615fb35964e7da4391a576a"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/test_fa4e1766b5c5.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "98e0fe5cbb66f2efd5d0d24f98ee7643716a2e20948ec1ab1b22f10f01cead9b"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/test_fee3a9c34a67.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "8fe5bb79adc84685708abccabeb1ebe9ea9f2f56b831f02c2c6a866ece112e14"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_089749a8ea70.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "24bffd9cabf54393ffb78a017d669bcb77879650b399bbea3d237f68e9d6f2d2"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_08de30925929.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "dedc59304d1cec934184e977134e055d374044f323643bcdc762f0819f640ac8"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_0b9a87b2b687.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "819473d3e0acd352ab0b73b4a6213fc940d53ec214668a88628abec08b60438f"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_0b9fb46444b0.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "820eca5ad3220d905fa1202f4558c2f16c7a6c015faa7cb5a474dece25979dde"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_0cc86f8ff865.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "b6a376df2c4c00f257dce9c20f1a635a526c04cd6fa7c26f00a571c59aeb8e87"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_0d4deff5b167.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "ce334b1cced3fd6da60e991675c2053f84d978754062069d0f97f1a286aed5e4"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_1119e4548cf9.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "3b7b31555f7171004ad997455bbccdf5f98a57dd79b5fcaaca59825ea5a9e58a"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_12885856658b.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "a40e2cd040a93cec67f27b3478e6ad13828a8c1957552bab20193bf5e0bb5637"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_133a991c08da.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "82368891608b21c1d6c1657ddc9e3dbd8aefe20a532d17b07cff6804d973fde0"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_1760b87a86a7.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "d7347477247ad6e5ba27bf8f3ab2b99b16020779adb1404ba7de4606d81e5189"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_1ae518991915.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "373afd656ea109958a96126d39a9b4ea19bd93ea6d65683a81921c55725289ec"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_1dfb182ab64f.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "e61f599f6dc12d711a2e189dc83caa5928e9a9667dc997dcbb3b08251843d1fd"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_2116c3870b54.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "17d270c9226cef63ba5a48d47d88a54ef32b876fc37b998e7f330d84b0428e4f"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_21cbde5aaf8e.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "14fa238e959e6a6e78b81244884d24fa8c81e52734195ef6004938a4050fe601"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_236643f92a6c.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "fbdc9955b5264fe99d7ae8335c39b48422ad002ff4bbf8dfd04e77e3b43369ec"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_236ecc15a1b1.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "dfea499cbe6ba646e4b557690ebacb76246cab4737cc9fc030302d7454817fd5"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_244dce38e916.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "9026c482e6117a3adcde234aecbd192e7f63c38776a3cbef562e4d089f0bc62a"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_24dcbdd9eb93.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "163d75788c85469ebdf621741c58882f312be13625d4c51ba22945af63ade75a"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_2f9ae2fe1231.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "26dc8b511a53ea1cdee7518e593509a8185567d94f35946bd0f74e164d52358e"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_3644d088f83d.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "acd56ade55bda71bf38a5ab53f4b21910dee2ecc9b33f3180698e0cbb36edadf"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_3926f17f739a.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "f6fd18a2816e21513fd759d36a279154707ff6b9e488ecbae4f05d4b279ef66d"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_3ae2867afcaa.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "094d0ee4b18238a6d230e96abaa1ff2d43e8a4a08945f5295a5c4ac1b5df432e"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_3cb641b1db37.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "9ed12f055bee6b784a0d943bbc4856497b372eed7dab243deff028afcb898f39"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_3e4939a3eadb.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "ba38967c006229c199820e462ca3fc75a0cc5b8300ae30e29a52b25656218c6a"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_4f96ea8cf811.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "e02be1038538aee8d97d2cf73d008bee4d882581c301b3aba844eebed549bd77"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_537e495eaf0c.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "8be3452710b794419d6ce34dd45885656cfa30cfd36bdf34c5d1b60270ff1089"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_5691d8ad2943.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "fdd00f801ba2b793248d9eddd71ea722d0d76f483ca1a4dce56cc797d8c34e03"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_574a56a778d9.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "17c0be40dac2f0d52111f9df95ea1534cedb20b3a6be3e0f6b2dcd054057e80a"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_5c478336d9c0.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "e546b7d0a3cc40d8e04a2cadd05acb01a6365ce275535f8903bc47f461a932ec"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_5cb19129d524.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "87822d90574e9d4d8456ff75ada4b302b1d78d04821d9b3400945d4ebe29b7cf"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_5f02d1c94c6c.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "5a029c5ea4f7dc64f41e7eb12c51cea0668245d7902dd8a5995ff54a08f15847"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_5f8e56ae32b7.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "00e49ef4533753766e52e14c78f67b68e8d0d1e87c5f35b72abff4fc8e56a9bd"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_60c2f397e429.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "cae35c21b3a40dd0af4c0bf4f99d03faa4db99904be0a574dde4f3a834c950fe"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_60e2c647316c.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "5b1af9ae41899bb9af0d5b918c26e12d5198a853932cb588cffc63c7b6a187ac"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_623f6a9e6a24.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "9d0c26952f73bb6e4d832a18bfde5090014942b20b2680068a1dfc2b6c88d1fe"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_659b004172ac.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "13151b908233877429c85394237ed01e9e5821d367f5d4679f095ffd29cea16e"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_69ddf3c81676.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "2173ec0f7bf3f92b0d68fbd286fcfb24a87006afa5ccc000de818e7090916630"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_6d4b036dc360.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "284e75e87581a0a30b008ae7a2c042a69c4a304a80cd0f7a9360e61c3ac5f929"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_70b461c38ab5.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "1398f1d3d3fc8f10c0fcb35868ec3bd744fd6684c763238e628e339848b02236"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_727613bdb489.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "631122c6b6a6c96df1bab2438b332127eb00f9c65e0aa22e49fdf8bf6a5c5744"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_7554d6692459.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "0acdf85d0e5f3d6233206b56308ae996be21e0d29f35fdcb93fb693b2547f4e3"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_76773f7b797c.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "faf0fb5d5b63f81ac65469b07873352d6d24775cb36456f4efa18587f1a9314d"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_790145f24fc8.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "0bf0cb879126a6974f7b2d16e4a1bdd55ab8a872ab65ea75edd84cdc26efb7d0"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_7a4383cce711.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "b5b15df0d14ecd349530201c84f6fc0baca808c041c3d4888c582b9f7059fba6"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_7aac9021021c.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "66a5b79eedb2548daddfbe62bf415d5f2fc0783adfb149ea28d9ffe90fce70eb"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_7f5c257752e0.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "d91d465e609c89f25e2574e34b43d8d6ee1c19ffbe9526868a025ab5b8fd6b20"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_896562100b39.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "7aa71e47531162242e105a81397da80b117ae6f9813386a3ec6ec749993fabe6"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_8ac166439753.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "cecf3ef7bfb4047c4d0557425183049990964beba7f04dfb9bd4c23070601523"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_8c9a2cd8793d.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "466ebf2808dd8746fa3e54d2e83fcb2b2259c4bc6f35c5b80c69b7962e74a15d"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_8ffb62b0d27a.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "8540f91d5941627c5166474936575c48c22ac5eeda803f32476cd5b774b43a0b"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_926b8e842982.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "5172e309503c77f08d3026933b3d5a0473ef66e0cfb1eae248eeea098794d78e"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_9c5277197ec9.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "ea67d171b2fd77131450ef2fb845a1a3619647e2810137ad1a9b78c805de4df4"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_9e5477953dc8.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "f83f09bee3500d4dd8b952e5b3646b6a5d553d07095f3d4eec2bb971bcd10fb4"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_a2c759f32fec.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "d4be9891a930468eb24bcdda43f9303872a83efcbea1972d772b8a3f0bb41f7b"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_a31cacdb47db.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "07bd0bba591c8292565936bf4d8ddfa0e2b1482f92151a8de828cfcc7053b6ea"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_a7f14ba8ed95.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "8d9e83343f977cfddfca31d92163bf89ffe021c300a4a3bfab1ae65fcdb5f2b2"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_a9cda8205fd4.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "e383e2cf17e109355dda45f7e1fa2ff2907478ca8ab727af08fcbb7ee48b1625"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_aa441b460c48.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "1d3d1e96cc4ab637a825806f70abfc6f7a77c930b6f5ca60cf405f00812b8574"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_ad571e034914.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "fab41d600295db84a53384ff3682aa6a3bfbb8f1d1d6ed27ebd6d30ca810bb94"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_b1c97e3ebd6f.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "2815ae1276104b32916f8e7bb324f6d2eaa007cda580cf11e7ac444bda2c4181"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_b2e4f276f678.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "acd68b84f77404a0b9fba3e80a077d9bf53755e62a4be2eaa736baed67bcccfa"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_b9b3a698af4a.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "561222f12a021deeacb21ebe0dbd1a6435b518aac39eb2251c027f67b8da2eee"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_b9ba93d7a1a1.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "ba7bf5f5d3e8cbb0adc66182a4200edc726950f02f041463d38faaa79900029d"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_ba1a144bfda3.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "025c5cf1720b16e6746666df1a77ff2bc51706378d25f9993c3843fb9f8fa6e2"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_bb1e824e56ac.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "8024b4f318c435a2119d9df9ada7085f730a24fe7a7fdd6c1c95670623aeb914"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_bdbce653dc9d.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "4158b941f72c4ed96647b1ff89d731f67f4c116f19d79bae372d99c6eb8b2f3b"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_bdc76b7adca3.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "933a80bf29fe50977d6f3c5c8a69dc38e9de88273f00f2aee75a04f7a161628e"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_c5dd0200545d.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "5d58e89f717628fb2da552c1993e988192ca5eea241de2852989e64088cfb087"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_c645a876737d.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "2ea847a5fa8632cfc7fb101b143c9da41a00993b92cca55bfeeedd49b85debce"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_c6566ef28aa8.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "6749a6f1eddfe31dabcb72da626800a48f90d71fac48b3e32725f6a50e6ceb32"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_c76c3dd2a1a3.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "173998a9d1513cfe15df38ee029a3d5fe52ebc7b5fb40f11c4d800c4b97bf26b"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_c81d0eb0305c.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "be4f4b188368faf2cdfcdbafff4c1bd94dddfbddedd147b528f1e0d73d9e37f0"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_c825e2a0f135.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "a308d4b6af4aab2618b6222f60b80cd0e54b3c133dd12b62c345197b5585b66f"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_ca8b7283c32a.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "5fc6736adba35cfdcd64a969b2394583aaa247bc845a1514075c469751f311f2"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_cc1416d93018.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "197ca656b6d5f8ca5cde7a937127f11323a69ab7e71e5ecb7eee2b8872b19b04"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_ce22a452715f.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "ac445aa3b4e01e13ae4a974353768e0b7746cb8271a317a3c9a7e7706dfe1873"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_d3a979eaf1e1.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "3a46b43ebd646fc539f680f553091205d96271934c0fdb1788a124120b3521c1"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_d50dbf8b5e40.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "823c3b717362fa98b4d73de4828d90433e68a3d03c96380bc35907975db5896f"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_d55656f7b033.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "a5ba2ec614c149dcdd6637d74fe026eb8344ae393b1899ade1f243d496cc85e1"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_d709bd4a7912.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "227688e91d82e02690a195128f1c6ef424ca7676fb9e13933669524b8bd7ce58"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_d89d87d097c0.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "9191c228d5ee561d8e973ac49acce9c7a81db00561d632955dee4d92c8587775"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_d9b95ac681c9.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "df1cf033674b019807d948b3d696a967039947cbcffcf4d2733951f36479a94a"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_dd75f0830d3b.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "c416d662ff0ddcc939205615e342df93140e85e5152f5ce5bf1494412301c1d1"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_e27850bc99b5.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "744f5e44628dbf899427517acc006a9d5bc5c4665adea8faa4df8a65937d5b36"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_e52a4a58dae8.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "32043f9dfd9eb64f993d1a8b0f29587025785478bd0151bd2923cd4f8972bd94"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_e595df8f714f.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "df5f76494b0887cda7786f8bcee7e66d62f45ff5a8152743aaab06d34c2ae3c3"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_e608b3994cea.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "22f866bf3d341d480e2c504601958a2d4cb0c1a68b9acfc19c608368ab3ab12f"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_e6f2ec4e9882.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "41cfd438a7e91289eb770a359e7f4a97bcb0a424049210c1e7950f76a0ddd26b"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_ea5cec49745c.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "65ab4d099b455f285adacda205c007836d96d0fb9dc4e1aa2d1b8556812dd485"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_eaa7632f7dcb.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "33a12133c2d1a8f47d4e2a21676a32f2c23fd0414aa2c9e55a006f92db447f79"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_edf38b2fb3bf.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "d40be5ba730058d4e23defc837cdcd3a31a02449ae8050aa524aa9955484c1e9"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_f06906a39e25.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "78a228f15e4031d8e26a56feb22666615555200b572551309d8048b38fa89f6b"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_f924d92893ff.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "760470df65d0c111ad9fd8df837839a8cd7aa1b5180cc28cba91611e51d74c87"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_f9f3ace75b9b.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "10f7b7ab88686c5255c486fef08f89d5355f968baf14d38590d192433649bd80"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_fee1c15193a2.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "cc9feb509f150573cbfa9d4450b475ed625e0705731638b5795ff62b7e4eba97"
+    },
+    {
+      "path": "Tomato leaf bacterial spot/train_ff77a450795e.jpg",
+      "label": 0,
+      "class": "Tomato___Bacterial_spot",
+      "pixel_sha256": "bf3094d8fd18b8653e52816d78a317333409d9410da3e13cdd33dc1e44693764"
+    },
+    {
+      "path": "Tomato leaf late blight/test_1407816df5c2.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "dcfeace354de1974670dfadd13b719a06b24299d2ab4b67770cfafb062976448"
+    },
+    {
+      "path": "Tomato leaf late blight/test_545c6e6cff06.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "921fde25d9d0ad039eaadb388fa441ec6d23efae082ad0c41246bd25cd8b5030"
+    },
+    {
+      "path": "Tomato leaf late blight/test_62f94835078c.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "b6bc6dae7e73934196881bbd6bef2c6a602d319fad718514af4acfcdb7aee53a"
+    },
+    {
+      "path": "Tomato leaf late blight/test_74ba33c3ddcd.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "463cc0c1b628db4c62c145f05f619b48ab9941f98a7b7562dc318d8c8e9ab23f"
+    },
+    {
+      "path": "Tomato leaf late blight/test_adcc16543a38.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "12da6431f2be5103d4af1896d9ee1bc90a4453a64d4c1cd9f8010a1789399ce5"
+    },
+    {
+      "path": "Tomato leaf late blight/test_c01b11a4ca98.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "769bca1fba0d44bd70d81e7d23e3fea2037ee8aa98437977abdb8d960dafc561"
+    },
+    {
+      "path": "Tomato leaf late blight/test_d09dcad5a7b6.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "0b3fe7db3ba56c673c4ac2de579dd2121d85f7d18dbdc96bcfb16c3752ee9d6e"
+    },
+    {
+      "path": "Tomato leaf late blight/test_e40f59ca81f2.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "dc9287f3c13e74d424e97c6df773445c563657afb5294c506c6fec8ee2102a96"
+    },
+    {
+      "path": "Tomato leaf late blight/test_ea98f7be60c1.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "05e8e3b712c6964b4827bb4d285f6e8d1c85c275c18c11b5f9e79bd18a749dfb"
+    },
+    {
+      "path": "Tomato leaf late blight/test_fbbc6be81a49.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "ced7bf9b25c4e4b9a634b028b4a605f97dbe4214df9f1e9a4dacc850dc7746ed"
+    },
+    {
+      "path": "Tomato leaf late blight/train_0015a005594e.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "272d07f236150153ccf07f10e53cb96f411760cca7ae6625fb28bc3a2bb5f1b1"
+    },
+    {
+      "path": "Tomato leaf late blight/train_030089f9ba78.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "3126310a1f2dea09c1946c7bac6f354a3f94279162a49b4f1090a34427242e43"
+    },
+    {
+      "path": "Tomato leaf late blight/train_0a11d26bdecd.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "9643a51566b101e3a8532531d153c237b99b8e62789014b5eca83067344ca592"
+    },
+    {
+      "path": "Tomato leaf late blight/train_0fc9867be38d.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "b858e9b7c7677ffa1617bac2d963646682faa0d39a04ec459e114e98f0616604"
+    },
+    {
+      "path": "Tomato leaf late blight/train_1b189a2463df.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "387b3909ff212a64cddd285e49499ab42845e7de275ac08d505ff29a1aa34dbb"
+    },
+    {
+      "path": "Tomato leaf late blight/train_1d8b546b8326.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "eafbc7a874d5cd3a9e79a4c5cb1fd797023a418a486bcc5bbe67a33f0edaa4f3"
+    },
+    {
+      "path": "Tomato leaf late blight/train_1e38619fb7a3.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "343b77bd498dd5fa34d5fd5bfa22df5371dcd8b93caf45d688bd9065804e91b3"
+    },
+    {
+      "path": "Tomato leaf late blight/train_20ea3efffc66.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "44b4bb3f37e7870c535b8facbb86c29b5256aa1ade4a61418d55efc012add693"
+    },
+    {
+      "path": "Tomato leaf late blight/train_218e612a0d8e.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "0162c7b17206c91775de5b8d8bfbeff99d31ecd51e4990d74fc6ba447f8de6d5"
+    },
+    {
+      "path": "Tomato leaf late blight/train_2297d3a1d3f4.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "30e38bebdf99f97e6d4ec03b7669dc87dd66c492e491548eace3c4cbc0758434"
+    },
+    {
+      "path": "Tomato leaf late blight/train_23ab5e3f09e8.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "52b2801536f51d5197eb8885f446d716e896d2fc1cef702036a92969390760b0"
+    },
+    {
+      "path": "Tomato leaf late blight/train_24359abb8c24.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "7dd046c7eba19c8d83c12c523a35ff665d2288507f7533cb4c3303a9715d563e"
+    },
+    {
+      "path": "Tomato leaf late blight/train_2508c82f1f4d.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "4f63776cc38e497270c765ca33bac4cb12e39b9129bb5bb72ac43c8ff25c2aeb"
+    },
+    {
+      "path": "Tomato leaf late blight/train_25b52f691822.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "bd21f7a9973840a6fde9d99382dcb8555a3d754fa14a2c4272bc8920c35c612f"
+    },
+    {
+      "path": "Tomato leaf late blight/train_29e8d699b351.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "54826d225b7c8a314b0d7baeb49c2d0718ce1c61c923c096591e17c984365ce5"
+    },
+    {
+      "path": "Tomato leaf late blight/train_2e7641f066b2.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "32f07cb594660d7ad9eda615d71da21750c51d98be6be1c9fe4ead6af114b6b3"
+    },
+    {
+      "path": "Tomato leaf late blight/train_2fe318fd5f9b.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "8e627f0cd99d233f5cd1a70a2ac247d20c3d2872fc1da78dec077e101a21fa55"
+    },
+    {
+      "path": "Tomato leaf late blight/train_33e73bdd4165.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "e2196277bf1847ccd95a260730e11186f6c4f224f3ebf4f044bfafff2f9f6ae2"
+    },
+    {
+      "path": "Tomato leaf late blight/train_340e734f1674.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "e5372e74dd6972e2a9dd783b264b6d7eb7e95c47a77f78c9bbaef4dfe15ecf6b"
+    },
+    {
+      "path": "Tomato leaf late blight/train_3603c00d3ce2.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "3c1dc323e9c82a6a9f19fd81b982b99e260c0b7b7a5402ea2028b6de2126a69d"
+    },
+    {
+      "path": "Tomato leaf late blight/train_365fdc722aac.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "28f2c5b9a7347a1758faeba00236c1add4ccc38d7a00542c76c451b61e14b05f"
+    },
+    {
+      "path": "Tomato leaf late blight/train_3ab396348890.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "0bea1978de3512950950f3fea3a9843bb9e0f6e3cd68b048ccaa426b60d949d7"
+    },
+    {
+      "path": "Tomato leaf late blight/train_3abc15c2fc5a.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "7b68cf5bcad13aee82732769721c5135ef565a048deb48eee3b1009e5343ecba"
+    },
+    {
+      "path": "Tomato leaf late blight/train_3e1cb44c7f33.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "b2eb437ea0877bb81bd72d4d9193498ee5460af7e8f8209ab44da9216a9b8810"
+    },
+    {
+      "path": "Tomato leaf late blight/train_3e9459d70db7.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "b680948c3f3f9b5035c655e1c8cc90b47bec4d26d3344e994004d410dd6e59c1"
+    },
+    {
+      "path": "Tomato leaf late blight/train_3ef9a98cd5b6.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "e9d137afb7809514dcbe549985f2718173f726aa631d66a60c8d4cc08f23319d"
+    },
+    {
+      "path": "Tomato leaf late blight/train_3f5bc322f6d6.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "bd49f0821665ad1a8984976112951965e1b8537f7d861db7273209dc32197a76"
+    },
+    {
+      "path": "Tomato leaf late blight/train_4040338c520e.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "4fac6901166ff08dd7d0f2df026a4f41233e91f7e1110ba06b12c915b8098a31"
+    },
+    {
+      "path": "Tomato leaf late blight/train_4679e7675905.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "2f2cf27de1104aeda8d72a02bf16b56d46630ef1143ddf4ce263fb0fcc4aca04"
+    },
+    {
+      "path": "Tomato leaf late blight/train_486c2dd1f04d.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "1d7f4ec10e0b8e6dca64a2453c72e2e127a38d2b3a5e135da69912cd2b9b46cb"
+    },
+    {
+      "path": "Tomato leaf late blight/train_4c4e16ebe280.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "9c3a6ecd851b5e30ca0a7e307c3a85c87fe667c11527739fa30f7dc543aff618"
+    },
+    {
+      "path": "Tomato leaf late blight/train_4d4ae12ee5dc.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "81344ffea2d0c9d7da09be43e2399393c8bf452d5ad97cbe321213fc10ffe5f2"
+    },
+    {
+      "path": "Tomato leaf late blight/train_4f61f58118bf.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "5cd3314d4f51451e7088d1212e36b4ee2dc7eeb418069536e1747a29ce05e96c"
+    },
+    {
+      "path": "Tomato leaf late blight/train_4fff924a894d.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "2434dbef247fe7e2c787f67d0461633a576ce4af75ee431117f0d8e362920478"
+    },
+    {
+      "path": "Tomato leaf late blight/train_514b669e8852.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "71c49d559cf1190177e5028d19dd4f922d44164b6e1316ec049cc5b81df7943f"
+    },
+    {
+      "path": "Tomato leaf late blight/train_55374c2eac6a.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "d259e06d6a96a10b58f27c79cf3e36c0d87c2c7108945ab2868c824a66f91597"
+    },
+    {
+      "path": "Tomato leaf late blight/train_58052a801159.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "7d2a3c60169eafa4dacd3ab193076805c4510cfd51c9abf2430dde2c9a7d4b20"
+    },
+    {
+      "path": "Tomato leaf late blight/train_59380df0e1de.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "0b9468bc249a3cc3ee5bc662418911e626a99047431c652da45cc090ccd0d60c"
+    },
+    {
+      "path": "Tomato leaf late blight/train_5fb87a30b01e.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "9d8484c08eee6960fdb44119b5ba0b7a94637467d9e5fe9dd008eff75afcbb9c"
+    },
+    {
+      "path": "Tomato leaf late blight/train_6687d5cd4589.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "01256c316448540a2a01ba9ae9cf788d5d6bfbbc066549bf09f43b306864c1c6"
+    },
+    {
+      "path": "Tomato leaf late blight/train_6781f6bee1ea.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "dc17b87afea2a4ed1509616ab6c4428d7175b4cddca580e22ec5bc067dc61821"
+    },
+    {
+      "path": "Tomato leaf late blight/train_6ec563e1a847.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "ab6cf5af337cbda9b49234acfc5920040291a17d56e277cc14a4f6a3b6c8047e"
+    },
+    {
+      "path": "Tomato leaf late blight/train_7258108b87cc.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "3bcbd5c43318e61ca546de51a5cb2d4b151c1c4cc507d04ef892f4682fa1bf8d"
+    },
+    {
+      "path": "Tomato leaf late blight/train_73a66060ac37.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "3d5cf75cd9105b240246bb7bfc391c62f6c0858a21a1b435285502d286168a39"
+    },
+    {
+      "path": "Tomato leaf late blight/train_73efc1fb63ce.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "333f19ac9cc5285920c4cd661a81acc9b7546047c0b143ae3fae710ac4ddd2ef"
+    },
+    {
+      "path": "Tomato leaf late blight/train_7416126bbad3.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "945059c3746e6b524bf3c3ced66d12379bf9afc5c865b1b691a558f6066e38a1"
+    },
+    {
+      "path": "Tomato leaf late blight/train_76dba3c6efe6.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "8ae2bb1242c5de0712fa2adf144a782fc27572e764919d26c0f9236c97403357"
+    },
+    {
+      "path": "Tomato leaf late blight/train_76f0a5a55b82.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "b3c8ba13395c8677f2947a9cef6341e214c551473f7fca5f102d2203980483fc"
+    },
+    {
+      "path": "Tomato leaf late blight/train_7bfe7c5c7a61.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "91d910ff0ef380aa5ba00d3a3d32f06afed69dba51d4b9551642bfe05372710a"
+    },
+    {
+      "path": "Tomato leaf late blight/train_7d652e4ab1ca.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "1015ce4ef3abfd5c4de6cf53a2219a9c11b88ca501996226ec76d509f1b6f027"
+    },
+    {
+      "path": "Tomato leaf late blight/train_804d49988823.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "bfe932bb0806105da5adb57886522cee5d7c21378038a76bc6da53531cf45c12"
+    },
+    {
+      "path": "Tomato leaf late blight/train_80b610c8dcf9.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "bc2429fbce14b418ad9604272e2869090944c41bc04c480d6a0a74579daaee22"
+    },
+    {
+      "path": "Tomato leaf late blight/train_8297b9896e9c.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "e6e5623bc1096642fda978ee3b3e4104399f76bf0efc9ff58bb9ecfc6891bb05"
+    },
+    {
+      "path": "Tomato leaf late blight/train_858c9d039c52.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "95214b9f763df1ec1878f15c5fb3615220268c468612739e440812f1e5b64bcd"
+    },
+    {
+      "path": "Tomato leaf late blight/train_87c6b1baecaf.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "cf66f6035e7a5115412911b753da3b2333d0bf8837569307c7f64892aa248d69"
+    },
+    {
+      "path": "Tomato leaf late blight/train_8f9696d42899.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "2fa98286b359bfcb86a9f9e0cad1edfb087e2aa236feac974228c3f66c807cd3"
+    },
+    {
+      "path": "Tomato leaf late blight/train_92cf8cc42569.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "3b28eb5ca99ebee0b94c00b3e5d662ea93dc02586ba64f5672b9751775f0705b"
+    },
+    {
+      "path": "Tomato leaf late blight/train_95bb50fc3aff.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "5f02efd7e2f17ee0e77a08f3bfb28e31cd243f42d1833cf780b072ae954ea411"
+    },
+    {
+      "path": "Tomato leaf late blight/train_98bf50c013ee.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "50a81414ea64ff2091a0505cb04af637fff1323227cef82214affab487000e48"
+    },
+    {
+      "path": "Tomato leaf late blight/train_9a6216e58fbf.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "693f27cd862bb21ff673356e2f06331fe97ed4754264d8a5380bb5c16db9b27f"
+    },
+    {
+      "path": "Tomato leaf late blight/train_9ad9d133e8fa.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "5c41c834f889444abb13db0946bd52e32ac10404b96325f8d4eafc7a16ec21d4"
+    },
+    {
+      "path": "Tomato leaf late blight/train_a44b0aac06cd.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "fad275d32784aff64f4f19af1d4aff9228f2fd32b8e844d4e54ec81e4931ad28"
+    },
+    {
+      "path": "Tomato leaf late blight/train_a8cfa39d331b.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "83573aa51e9a3a89937d597c56edd8494a3c5aaa7286c1383da2928f45a6adcb"
+    },
+    {
+      "path": "Tomato leaf late blight/train_a9af51da285a.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "5b807e0791a2fcaff60110161137b6dc66bddf0fba3eb003d673f052ed14c4aa"
+    },
+    {
+      "path": "Tomato leaf late blight/train_aa5ce6629bf6.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "e12b15e74a942ffe0e73ee4b3ffc75665e5f5141ec935c01f1911f86dd043cdf"
+    },
+    {
+      "path": "Tomato leaf late blight/train_ab2162319666.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "10711b0d7ea261194abb979f5f3133e85d788ada67a6c815fc1f541c4716324b"
+    },
+    {
+      "path": "Tomato leaf late blight/train_ad6df4cfdd65.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "6b898766e2c3d0f771dcdbdb8f809406d2462f32252dfcf96021a37167f6a961"
+    },
+    {
+      "path": "Tomato leaf late blight/train_ae76b4c04888.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "6a23fd536e20aded9ae86ab3ba113d779e4772e78191f355e00f5f7372d8be3a"
+    },
+    {
+      "path": "Tomato leaf late blight/train_aebae6653f65.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "39e94ff7f88f9427fffa7029581952efa91ea38fafa5e5629ba5ec71b2b4f815"
+    },
+    {
+      "path": "Tomato leaf late blight/train_af4dd30ee2a5.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "d6f8ccfc2e71a40473c58d76282aa12abd8c129aa51976e6ff61cf37b62903e8"
+    },
+    {
+      "path": "Tomato leaf late blight/train_b7c4ddec6d31.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "5dc6bf3a20d505ba3b317f76e60c116957dce7566404824edbacce4897e0fb4e"
+    },
+    {
+      "path": "Tomato leaf late blight/train_b8bca3f1a5cc.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "dd751eeb7ceba8e1116c9cd9b61146c97e2b152729f256eb2158b2d01d76e309"
+    },
+    {
+      "path": "Tomato leaf late blight/train_bb34d29d9127.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "0787d24a7a1fef27cfd3529b212d7252326f83ec19bce444d6db865a00e5bfd2"
+    },
+    {
+      "path": "Tomato leaf late blight/train_bc172e73d9e7.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "9fe26d704acf114e78dc74049d09d52160d22ceb4f2f2120723b62ae72638ab6"
+    },
+    {
+      "path": "Tomato leaf late blight/train_bea7147019ca.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "01c35dd8e608ad5c3c577c33f5cc8f09231ab2208843de0741a8fb4dc6b679d5"
+    },
+    {
+      "path": "Tomato leaf late blight/train_c543dd1a2bc1.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "9f2adac4f437afceb84a526223d6be30177bbf4903b02cea0a32aa28d2f4612f"
+    },
+    {
+      "path": "Tomato leaf late blight/train_c8b65e5cf82b.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "8f14d94fcc099678506223727409a52ec96946197c646336d984943a1e4dafad"
+    },
+    {
+      "path": "Tomato leaf late blight/train_c8e4a18e49eb.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "a9a43bcaf0714e7a5d7722d14b750eec3d6563cb708c3ff3d2c27fcab53e4522"
+    },
+    {
+      "path": "Tomato leaf late blight/train_cd0a416efe87.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "82328aaba90665b13fb150b4dcb0b546621b1583e49a0733a92e4f9dcb9324b1"
+    },
+    {
+      "path": "Tomato leaf late blight/train_cef9248d5488.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "ef6130655eac9373dd52d6c36e09515a86a0b9f5a6651ddac6e2a5a572c3b42c"
+    },
+    {
+      "path": "Tomato leaf late blight/train_cf8b5641f5e2.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "8dad748cec2c81b0a80e6d8f01aa3ebae91ffaf02147780d96eada8e7b8a4bd5"
+    },
+    {
+      "path": "Tomato leaf late blight/train_d02907629012.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "1629665ef7b722e443134bc5721490904b3f25bba1f7c5cc30b9e6f3ba78e042"
+    },
+    {
+      "path": "Tomato leaf late blight/train_d13e0ab2c0e0.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "b5c752116d84219be522ee28afdddad5db44b43fafbfd43c9724b41a4841d5b8"
+    },
+    {
+      "path": "Tomato leaf late blight/train_d7905487c2bd.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "07708900d4ae9ae125d53dc4f18b35c4831f3960a34b80b4a68479a2aa5d1600"
+    },
+    {
+      "path": "Tomato leaf late blight/train_d9d0cc0cce61.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "0803aea8482e6a814d5cbb0548c529bed816610c7ece6ca44682ce3512a0dd49"
+    },
+    {
+      "path": "Tomato leaf late blight/train_ddb5131054c6.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "e4940091cd9f1416b62e327d3b4a58238bc29b331957466fb4270bc54816f3b0"
+    },
+    {
+      "path": "Tomato leaf late blight/train_de299e8f98ca.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "98631fa5ac543669c5d37fcd3b4611ef2b6c4190f22ea643a6310feb7443515d"
+    },
+    {
+      "path": "Tomato leaf late blight/train_e982683a0e04.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "c5a0a34bded2ffa6e2f6c7c8727f998d4c9a227d3f9de6eccf50862acd896d1a"
+    },
+    {
+      "path": "Tomato leaf late blight/train_eb9e8d2f30b5.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "0755e4de10e4ec72e96d7cff062a86b7c83cea9af41cb169e3baaf74d8f88963"
+    },
+    {
+      "path": "Tomato leaf late blight/train_ec02999e8f88.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "b140af767fc79dd8956e51d2ae5cb7f9297464b9a76804b846990b071765444a"
+    },
+    {
+      "path": "Tomato leaf late blight/train_f1afee75d7bf.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "c81d6bb5521c4ac2a25111caf3ae9a68c47dabe442cba92dbdf12220c3ab3a22"
+    },
+    {
+      "path": "Tomato leaf late blight/train_f87f5543fb7c.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "e8f44ae19ea10959d2c7752f2ccdc2154edc7b6dfe7e600e65c614b62f4c9983"
+    },
+    {
+      "path": "Tomato leaf late blight/train_f9816f2df2a2.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "c3ae624b32b20d77684d948ed64d5e81e9399a8dac3d328b2f56c110f54e25e5"
+    },
+    {
+      "path": "Tomato leaf late blight/train_fa4635e47f54.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "5bd98e99e23e3152a9982b0703572747024b8ada4f029f92ab1de34e632cf0e8"
+    },
+    {
+      "path": "Tomato leaf late blight/train_ffe2b3018a69.jpg",
+      "label": 2,
+      "class": "Tomato___Late_blight",
+      "pixel_sha256": "f66144c1c97e38ac5496534061862b7883ee4225ebb58bc74ce73b68264d9adb"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/test_1b865268704f.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "87e47375af3953819f34948b2b98d5031d684f387ee35b469195ab1aeabdd086"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/test_1f03356321ae.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "14ac7b0c7e7891d4506a6d52af6bf9bccaf0ea4412b6117e6ef462c0ecc98520"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/test_26c943a22ee2.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "0082ce1b13a4d0951e6d1c6d2c34a8150b4b0c162336b73336335a69462e074e"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/test_26cb74b6b39c.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "c5a144f27b809e72425855e7307d74331a4496fcfb556389fc2b8bdcbf492a25"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/test_29012c512739.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "78f7f597fe55ccdf36d1a411e3a321a01693609deca3bfb284fcca6ea4a541d0"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/test_5dc5efc6bba5.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "ae0b0527260933cb1c8c97878fbc269e8df8557d3dd8134832cae8c0a9a770ee"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/test_6f13b3122933.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "141dc4e87fa36fe53ceb96a01f04dfe161f94d1199b62513d038a773be4e9602"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/test_8fbd924d1a2c.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "5a56cc4716086b2ee2a320b52b82b5a535d56891c3f2820d0644f15f98b4b8b1"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/test_9208d2e08214.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "f6e23703ef819a907e6bd2e09d4f5925517a41811b15a16a61a0e4ccd545ef69"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/test_a1c4afc505fa.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "c00f67257ff7f1bb2f9d551d103b1b5a113c414ee3bf602a9658e18695ac3fe9"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_0b8ff212116b.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "e45ecbfdef1f7aa22766f3e4c2adb3e3ef6baac8416e76d399cb8c26bbb1e073"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_0d74a43c8606.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "0bb20abacd4e730b8b166e88f1c3e6f69b101fc90e63ad25b5d5af04b4bde3c2"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_126c2495781c.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "1577b300d647d1309f6428166669bae4d92e7ddec437b1bac83c3011f5645369"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_13f30577b520.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "b0cf8c8a807ca0c089e78a3bb4ea1aaa12d08e7de263d827f8ab12d0c9919395"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_14cac5c3688d.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "acca5a38ce7b646906e4c9c769cb95a203b2c33624b5b76d49761805342e7b97"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_15ca868659f8.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "945c332f087733969e4cf2fa65703e2ba149a8c083d6ee3d501c4f667e0051d1"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_1af456653b5e.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "5e2a1ef7ba7f8d077dcf3439e8736ce3476a5b535e6eda6f9f806216204846f9"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_35d66717e9d8.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "d35a30b3d7aa08afe49f7d3679d6a8686be291c0a99ad3c95e96f8df57acb3c9"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_3a067791808c.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "b49d32a3b6df6d81f520046fac7855a4e7d4dd0033d3854291f4c4f95da4d715"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_3d30b701acb0.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "63f7e0b76f95844073650675cd686c769c46f8fc3e97641fe38913c0225cf219"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_41dc18163599.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "48fe0c188c8aab89476032075881f7e09f3a1cc1405718799df3ab46eae155fe"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_43cffea099c0.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "9148a9b8b652524e5b5c0efd00334d2583ae28aa21d31a4d536f0eee35dd3f77"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_473518607921.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "2cd3aa27629460ce1930b1bba2ba1355966ab42fce3d38eb4abfd3591e2c0104"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_4c3d5c68b60f.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "af6b285b07e6416d2ef41f1c6b42f5fe61e24082210fa73177db56c54cf81a85"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_4e556af15fd1.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "5bf4e9d732cfd640093ce2f982723d22bf5ab99d0dbec002261692d16dca1782"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_58382730c548.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "2f3ee6f27b3c25d6a46a584fa98924718c3e639f0a35289114d506474e01363e"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_5abede5610f2.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "6093a2c30f7bc2c31a2732e72b5abecfc85fa5c0d606592f880be28af5cbb091"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_5de1874973eb.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "d0fecc794eacbb20a3529fe85381ea5a31ae24fd3ecb29179e20ff2553619536"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_5eba4b13488a.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "f0fd4415a910d72f36af6d3873d60d442fc1dce3f56cd59c0df2530d7705591f"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_62bf33369915.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "2e3c3dc225ba743b32653fe6527a77496294d5897139cd47ca434047159f0609"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_6caf2f3c5d6d.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "a3399598a881bee899de0e5d8c10ddc5728e537b2e325a5431196c76ab43a793"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_7e6c3e2de389.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "3fa2d957bde5578b9ae643505649ccc358c4dc618f7d894cda53d823e7780923"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_804d607aeaad.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "c902df7564e48ca7a878774bf8901ccc40a436ecdb1ee31281052ce177285f1d"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_82d9cc1c11da.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "a36ea2875604e6837675cf9f6a51aa0e96cdb959c3301495dd6967e7637a7df1"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_83d3d012f0d6.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "212310b0d2b7dec2aa7ed4dde79c361aaf547c62a8f7ffa8ce7011b8c2648f23"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_84a3c2cec7e6.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "60c1f59cc4d50ef579c0fd5e09ad3e2b25f23774d184f3cbd96494519f7938b3"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_883c8c40ec25.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "5e7526d8e145edaddb384ff3343b0f15a6b9fc9787ee6a7e5101bda7e80686ab"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_8c4a774d2450.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "6068e22880591fe268f321c5eae935e4b345e64e8c1e450ca3c35c77a43d4448"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_90c3812f0fae.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "856e3f7ad642b24bc0e353500d08d410f8c8fe9272d11923b604912a7beaf33f"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_91a024011da0.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "41f6fecbde3de02d6e0c71bc685668378be92102fbffce685f63b0c1f4501ec3"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_96c3ddb2550a.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "8b3f7519adda42ceeecef019865ab97445cf7a02428cd804c35e2bdb12ae13f8"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_a1a2146e432f.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "f26805605034b0fbe6d9882829e56870d285b5eb8a1860095b5f000fa0f39c70"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_b0db44c30e42.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "ec7d53fe3aaa875bb5a0126000395d04a45859a9556b78fc6b09a1654eb5af80"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_c1b25730fb40.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "0da09df88f048cb25fe2b9b6dbe794be54e8691315ae8bc6e569d322571bd33e"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_c870efcfea1f.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "fd58b9903c830ee574183890439fcf109f0789f262dc002ab285f50ac085d7db"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_cb9bc2c63eb8.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "a28e262cb682446c5ade7b9d477dd1ec115f32c271eefe612234e7c067756e72"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_ccce967abed2.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "3f426841638e2c827b6b14e64bc5eaf1818465212bb3efe87df571fe8238aced"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_cf8ca16aef21.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "396c4e384e73e3ead81132134379c2778a88b4fc54b5acee49a26dde09019ae7"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_dbdbab5c4275.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "d339dfa0420b9304d1519da9582e311492efa8277ebdb27ae270e8a2d7df84c8"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_e3564e528ac1.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "92b8a7c67bdeffc6afba82463242bb2d5231ef1b7cffeea769b51c57bb3019ec"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_eda208a07055.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "53febf8f17b1f9036bfea99f4cd301819c4df6861e2b1783f1733a19c14cea71"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_f8f8d6e640ea.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "f2290ce3c59830f78d0e2026bb4f3eb2a624cd1fe4fd8a314e246951f908dbfd"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_f9bd282334aa.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "3617e009ec18def8b136cf09bf9bcdb82fd458c691bc2a2349ad01d22130014c"
+    },
+    {
+      "path": "Tomato leaf mosaic virus/train_fff2a998f101.jpg",
+      "label": 8,
+      "class": "Tomato___Tomato_mosaic_virus",
+      "pixel_sha256": "ebc7d97cb8ae2042c044e5711d9bc31d9db35c193200af4062cfffb6addb98fa"
+    },
+    {
+      "path": "Tomato mold leaf/test_06f917c962eb.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "d9ce4b8d96685273a5b1578eea52cd002e1c2a7db25095364ef647e49e8fe37e"
+    },
+    {
+      "path": "Tomato mold leaf/test_0d9cb57e5d0f.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "779adf03e5e035439239316ca8d0381c633e511826e1a7d822cf970588fad376"
+    },
+    {
+      "path": "Tomato mold leaf/test_2f13155fad89.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "42b91fa82870c6eea44d5e6aff4172da5f1f93b4af059028b7f31db59bb784f4"
+    },
+    {
+      "path": "Tomato mold leaf/test_3cff2a2cf432.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "3627e18507d80bf89e5bdeb01e08721d639ff405aa08dad966f521a18a0659a3"
+    },
+    {
+      "path": "Tomato mold leaf/test_41363201446a.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "64238c2865a6133e08d38de30afaea65b6beeeed564d88598137f98d02f50274"
+    },
+    {
+      "path": "Tomato mold leaf/test_7c4f62fb9583.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "7532e7935b9ab0f082aa23434c77ef21f81d800c328a514b7b65d35a0bb29b9c"
+    },
+    {
+      "path": "Tomato mold leaf/train_02c9f572d1e4.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "5ace7e1247941da2952780dba22fbfd9e8ef956c4ef6790cbeb474e1ab75cae0"
+    },
+    {
+      "path": "Tomato mold leaf/train_040013f3e5a9.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "8baa9b14d711fac01788071f9ded5bb357283e301fa885f158f7a471de7acac9"
+    },
+    {
+      "path": "Tomato mold leaf/train_0c5202fc300c.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "a566d0d65b4bc089ca159cc2c768341ea228203bca97f7a6327c1b0350356c1f"
+    },
+    {
+      "path": "Tomato mold leaf/train_0cea0b0440ae.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "638cd7c6a11bc1ef3ecbd1db49cb9dd23e10a2fddd545bee1ae13d6665174f87"
+    },
+    {
+      "path": "Tomato mold leaf/train_0ed4d930fb3b.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "408b72323eec7b55baec1e8e5696f2706db44d7e34af5c62ca53652a1030ba69"
+    },
+    {
+      "path": "Tomato mold leaf/train_0f7fcb47d0d6.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "8c15a788a2aebc46fe471337c15a6cb85df35eda40daf35aab59ef6daa71be60"
+    },
+    {
+      "path": "Tomato mold leaf/train_1502ac964a20.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "a5de8156020880003f32cd69800341509b2bea986081f923fae8cdc2e73ca600"
+    },
+    {
+      "path": "Tomato mold leaf/train_1892b315dd7d.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "16616c09e20092f491bb1e1e28762752f77a55864288a19696041139d58918c8"
+    },
+    {
+      "path": "Tomato mold leaf/train_24cf6c4fa10b.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "4b3799a1c88b10b9d6177f3dc60e6e1ccd0048186b204e61e1d6289ca575a804"
+    },
+    {
+      "path": "Tomato mold leaf/train_2bf9b070af9c.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "164f93cf71052baf2a9cc25fdd6e0011a5292806985410bd61441642b1c3484b"
+    },
+    {
+      "path": "Tomato mold leaf/train_2cc3e9629641.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "52734002bb6f5cff32e346bf22544e45556dc8a0eb0e7fdae2cddd4eb8fb67de"
+    },
+    {
+      "path": "Tomato mold leaf/train_31d1e7adccbe.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "3b9b460c8cd6655aef025785d7ddda17ffe0871859c02692079bb74fbbb996ea"
+    },
+    {
+      "path": "Tomato mold leaf/train_33856f3cb0c1.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "617e663109326a52d4cb23bd5ddace4ecdf03ec9adf707bd844b3b97dadc6d49"
+    },
+    {
+      "path": "Tomato mold leaf/train_35721c6e602f.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "ec1a35d108e45b7a3932320b09fdec2443fd3dc8957b114386fabb48f3ec04a5"
+    },
+    {
+      "path": "Tomato mold leaf/train_3810d4a3828e.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "ccd083d10c5632b9a9d8f0a6ca66b54f80488b52fb6f57a9ace2f045b6af3766"
+    },
+    {
+      "path": "Tomato mold leaf/train_3ac49ea487d7.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "97c8ea7bf4f1e17854f05a1e42bcd397b7db7cb27f2e04d594f88046d49b66d3"
+    },
+    {
+      "path": "Tomato mold leaf/train_3c6e9c759fb7.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "729aed7c83c72b2825d505ffa26bd033dcf5ddc1269bdb15e96cfe21bae2c28d"
+    },
+    {
+      "path": "Tomato mold leaf/train_3e044387fd2b.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "2823dc41a19751d735dbeeeb8e62d46cb3b26a1b1f3aca2832b3c6675473b34c"
+    },
+    {
+      "path": "Tomato mold leaf/train_41c09e3970aa.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "8b43f408229a91abf652106aa7bf2126b37f3cfc05069ea8200b87baa45150ab"
+    },
+    {
+      "path": "Tomato mold leaf/train_41fa5aac8254.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "9a750c190495894734a687ae22f0af778042c3f655a18d433fabb40e24661a10"
+    },
+    {
+      "path": "Tomato mold leaf/train_4745e002a350.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "8bb219faa2370f983d8d2674083306e15ab4e3836368b4784a32439f6330d4e8"
+    },
+    {
+      "path": "Tomato mold leaf/train_4a3297237501.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "6a6c989d0c349c376174629075ec2bbeff3b7812a1130cb5e9e54b56c7bd3982"
+    },
+    {
+      "path": "Tomato mold leaf/train_4c60452efad5.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "23be690712494a16c1fa47e6daaa53ebd583baea7b17c345d382565836854ea1"
+    },
+    {
+      "path": "Tomato mold leaf/train_5095a5f0ee88.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "08cd7757eac2cae4e3462a04049496fe5fe1d266beefb31635f585fc73372c56"
+    },
+    {
+      "path": "Tomato mold leaf/train_50f2878e37b4.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "a5fbb5be2b5e515440bbd53ec191639b6abd13611203d21784b3872203f9828b"
+    },
+    {
+      "path": "Tomato mold leaf/train_5353a12b2686.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "7f7136589820ffc8da9dbaa3f67f8563340030adf000e2622759c917b33a0099"
+    },
+    {
+      "path": "Tomato mold leaf/train_54d1fd29d359.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "80c82c3867f224d6e7d1e82d987c17721373e2390e39407a13ba82213c259700"
+    },
+    {
+      "path": "Tomato mold leaf/train_552978eb44b3.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "80aff406cfd6c1a4549549055142d10d31d7f01d7983f31989f5034f2409bf27"
+    },
+    {
+      "path": "Tomato mold leaf/train_570a0f6243b4.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "b8c2022c2eaa63b419cc42a45c25c2746dd9651d2bf88556ce2db7144e33836d"
+    },
+    {
+      "path": "Tomato mold leaf/train_5818fbb9d6cd.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "20ac30f4b2403750c3f82430001220c6c7ea0145d3fca97dfdd2ad00d8d12dd8"
+    },
+    {
+      "path": "Tomato mold leaf/train_5a18146cc6a2.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "78b342c5cd5a33ab6d8f491abdabcc9c0864d3eeaaf03e0eb6dc276890bf3e7b"
+    },
+    {
+      "path": "Tomato mold leaf/train_5a61c5247df8.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "e000e397be9f776cfb73429aa833ab7f02854e4e61ba00b45e97e8c2741fd108"
+    },
+    {
+      "path": "Tomato mold leaf/train_5ac3d928fbbc.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "2d7a02bf30a1c95017e87a0173ab7fdff93c6e91e747d409963a1315e2d3891b"
+    },
+    {
+      "path": "Tomato mold leaf/train_5bab081aedec.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "fbdfa9b119ed846ef78dc53fe58fbc95bc8c71051df37aea62eb97c1a9c7b73c"
+    },
+    {
+      "path": "Tomato mold leaf/train_60fb879ef9ef.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "209a2223906bd3991051e67556aad428091649fcb55ea5b5ea9dfa69be5caba5"
+    },
+    {
+      "path": "Tomato mold leaf/train_6c39b81552f5.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "1570ab20e2d9c0074bd95f972cf709692ecae7cfcaf68d9fd83f278989369d2c"
+    },
+    {
+      "path": "Tomato mold leaf/train_6d9953c64d0a.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "f8c54326596653616cea9e3d4214a5531245f73431d6bb8710cbd36f022e0c3c"
+    },
+    {
+      "path": "Tomato mold leaf/train_70bc53822ac4.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "ab895b84913250cb0ec0745f794dbab297f9c32debe3bf2af08203e7e2507886"
+    },
+    {
+      "path": "Tomato mold leaf/train_717754c0c85a.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "a5d2bd58dd3e97f939ce8f92727ebbab46df114934e6f92b9be77a58af46ab77"
+    },
+    {
+      "path": "Tomato mold leaf/train_72a52035dcf8.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "8a90c1d116b535e0d8668d4f126e1ddcc63fc5c1098d9df754b57f454a7f3f42"
+    },
+    {
+      "path": "Tomato mold leaf/train_730a5e4e4feb.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "3851606e998d690370fa68918976cd645e5c4a5ea704445d2b5af13337376c8d"
+    },
+    {
+      "path": "Tomato mold leaf/train_7850e94a94ad.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "a5666dd99368d68ef5bfafdff99a434b603927b7a45f5a21291616700667a373"
+    },
+    {
+      "path": "Tomato mold leaf/train_8052832704d2.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "45356acaf1b7ad31ad9a3c3351fe1ed494daa758f88df448cb70e7f70e376413"
+    },
+    {
+      "path": "Tomato mold leaf/train_856a3934cb65.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "9a2ccdd05e4c5d893b656bc306e1a8d62e70127850b965235cd4834533731bdf"
+    },
+    {
+      "path": "Tomato mold leaf/train_866a3547dc21.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "2e4a53dce1f08a73220fcbf0ff2598e6ccbf9b3a71d7b0c5dabe9fe0e41e6213"
+    },
+    {
+      "path": "Tomato mold leaf/train_86cc06eab315.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "6aac866b99250590ca6d83992ff81be75625b2c60f2a9d9f1871449e1e98768c"
+    },
+    {
+      "path": "Tomato mold leaf/train_8851042fbc0e.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "752a904ac9c1a18d2cfc447d9ce4acce248e2f82c1aee0dc4d71526c4bebb4ef"
+    },
+    {
+      "path": "Tomato mold leaf/train_88e56732c3ac.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "7abf6fc290c949e4124a89dbb3d35f033a82ba3bb946215a1f36f811a0c27427"
+    },
+    {
+      "path": "Tomato mold leaf/train_8b3e3ab0bf79.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "dd5c7a6402170a04f7056e180c7bf4802c54a77c48047a61bb8735f04650a821"
+    },
+    {
+      "path": "Tomato mold leaf/train_8caeb13d6b5a.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "0a21aa33715cbb2212ec4373cf4841d05dc3b93490af747df9daeec721222000"
+    },
+    {
+      "path": "Tomato mold leaf/train_90ce1845fdbd.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "fcfe24198d47328848bc48455773ad0aec2e8d6f8781e4ffbdb435ab5849c434"
+    },
+    {
+      "path": "Tomato mold leaf/train_94aa7f3d95ad.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "019acf133ecfcf29ac348e28785a684a3f80cc540e0b42708298d8dfe0612e85"
+    },
+    {
+      "path": "Tomato mold leaf/train_952941a6f5c7.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "a568ef582ca68a7f550baed26500d00f46f1d1dcf8377a8e7b90f076514cf36c"
+    },
+    {
+      "path": "Tomato mold leaf/train_96438fa67b30.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "8ada0b74c842c386f86303a03d0717c2189110b7bac40af63847b3bc77799a8a"
+    },
+    {
+      "path": "Tomato mold leaf/train_9859595c8fee.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "ca7c0222189284308ac66a41d6c2ba517fd1a934c91b37305b791977cbaa40ac"
+    },
+    {
+      "path": "Tomato mold leaf/train_99195730e435.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "9e40ff48d6ea6dd0f7c16135391b55c4946567227a4dc56288dc4b34d927f2ef"
+    },
+    {
+      "path": "Tomato mold leaf/train_99398cae146c.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "c9c9e1b68619d03f0606899786954eefe4f448345ee5b5e65769a5b095fadb00"
+    },
+    {
+      "path": "Tomato mold leaf/train_a2a6994f97ce.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "ba584aa785d49ac8736a2cce4203537e3500d638d849e4627abf3d6f7dd3bce5"
+    },
+    {
+      "path": "Tomato mold leaf/train_a30bc27f52a9.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "10a1566bc2c49a65766d4d1a5fdbcc467caf4b37a5b76f5bfd66386821a76a96"
+    },
+    {
+      "path": "Tomato mold leaf/train_a55665daf53a.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "3fbc73b0c0a2143b94cacd9b6f25a2f9651f3fef83367d7d9b96756943bfbbe3"
+    },
+    {
+      "path": "Tomato mold leaf/train_a7154c9b408e.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "a0fa6a7d744ca20ddc94ccd3b748e738ba3d451a28c36d5db24738e667a72537"
+    },
+    {
+      "path": "Tomato mold leaf/train_a909cb0f8060.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "d189cd1bf1c89e3467eacd0628122061cf0cb89ffa74e20d823aa584348b295f"
+    },
+    {
+      "path": "Tomato mold leaf/train_ae62bc0c8405.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "0845eda9f14f352311680fe3a4d72de9d229ec8e519d1e2718ae94ebab12730c"
+    },
+    {
+      "path": "Tomato mold leaf/train_b0fda7db9e28.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "31056286ac6133aefe1f74875d456b5a69464e586e9adcb22bb8e19b360afc87"
+    },
+    {
+      "path": "Tomato mold leaf/train_b2d52c49fdd4.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "64becb53145693cf2c7f60e1433d11262431fe530e64d46fbbf895f2f7d7cd85"
+    },
+    {
+      "path": "Tomato mold leaf/train_bab066022244.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "a7d3ba57194e3752a09f963117442afa12b677f38c1b241b7e1eb86c47edd888"
+    },
+    {
+      "path": "Tomato mold leaf/train_c4302aa0f13a.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "855396f68da73a452fb7f24ccceb96c86a3ff72ad3f387918bc1a1f937176515"
+    },
+    {
+      "path": "Tomato mold leaf/train_c7cffe529940.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "761248877a654ac61bb4edf770e9c4c39895e2044936e032da3fefd3e25cbaf0"
+    },
+    {
+      "path": "Tomato mold leaf/train_cbea63d9ec44.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "047c90469083913238abe7ef0c2179f48638839110d95a56bf903246a8c9036d"
+    },
+    {
+      "path": "Tomato mold leaf/train_ccf1712bb479.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "82b58ac337cb3837ed8f5f97eac2d1e4ce49ab83ee6e9e7829b3d3c7733eede0"
+    },
+    {
+      "path": "Tomato mold leaf/train_cea40c30d2df.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "ce49d78ce5d8b9fb7f54e13d208c8109f13ad7b5e765be8222666d96a87b31c4"
+    },
+    {
+      "path": "Tomato mold leaf/train_d34e31e87895.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "27af6e0b0d77e7b41c88804509aa65a51c7428cd2d9c0c8743ccb8c5e0cb9df9"
+    },
+    {
+      "path": "Tomato mold leaf/train_da3360d6b388.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "4cecd3829aa8219a3fb1daf849d1ca8172b8ac9c6d26873ca76f2e1c9c1b332c"
+    },
+    {
+      "path": "Tomato mold leaf/train_de2aa1a7454c.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "ac18a966f365e54fbdf1e1cfa224ab51380b288a6936d0df5a2b9f8976458d11"
+    },
+    {
+      "path": "Tomato mold leaf/train_e0a195b2f34b.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "7f5d70843433d2c33afc355dadb9ab982006a043bc8d3c9a28d5174c2f3c03c5"
+    },
+    {
+      "path": "Tomato mold leaf/train_e30cc0d0f9ee.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "416efdcea80061447c96d40bf8ffffb2c47bb6590eaec432e7364e04da7152d4"
+    },
+    {
+      "path": "Tomato mold leaf/train_e6366106b243.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "80a7e08beef41ede0a0cc6fd6e45efefd3663aaa6616e7fb86eb65a48736544c"
+    },
+    {
+      "path": "Tomato mold leaf/train_e797efc3a525.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "ef4eb00f72b729b00f346dce8e0c84cb40ce7c27449a8ddc11a5b62149c4ec75"
+    },
+    {
+      "path": "Tomato mold leaf/train_ea118911170b.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "067085395401daf9153c29b2a46303c62093e0352819c7ed99c175d4f9756a0b"
+    },
+    {
+      "path": "Tomato mold leaf/train_eefee3267827.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "1e7bb01844143fd11d1051165a89d699943077caf1380fb2103853b5a8df0e03"
+    },
+    {
+      "path": "Tomato mold leaf/train_f195e2b15d12.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "fcba0db5f64b5798a55bf451b416dc34ecb5c0d3d732d73af322d6237629e8d3"
+    },
+    {
+      "path": "Tomato mold leaf/train_f645e5ab8937.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "e64dc7f3ea4cc94511dd65f1d037ab47ba7ed846fb46be21e198ce5ee5e46335"
+    },
+    {
+      "path": "Tomato mold leaf/train_f8025a342251.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "eb1550fbf0e7c5ad86fefa73e5826a0f1e01f296e71375f2b3019d852115aaec"
+    },
+    {
+      "path": "Tomato mold leaf/train_f97fbbc776c2.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "7aa152040106709b76ea9bc8450d1750efc696ba0d30c45bb8fde7b2b478dda4"
+    },
+    {
+      "path": "Tomato mold leaf/train_fb58d55c86bd.jpg",
+      "label": 3,
+      "class": "Tomato___Leaf_Mold",
+      "pixel_sha256": "d4345acb36b38658b73db085353d1bbb96dba9f751c6814419dafe8930462eec"
+    },
+    {
+      "path": "Tomato two spotted spider mites leaf/train_322f03de0acd.jpg",
+      "label": 5,
+      "class": "Tomato___Spider_mites Two-spotted_spider_mite",
+      "pixel_sha256": "92682578238ef4360369281973bf5f800434adb3f717f5f8c3c23d574d8167e9"
+    },
+    {
+      "path": "Tomato two spotted spider mites leaf/train_af638aad6a83.jpg",
+      "label": 5,
+      "class": "Tomato___Spider_mites Two-spotted_spider_mite",
+      "pixel_sha256": "f77ec56765080165d82774bca5860fbf775c61f0efd028d049590b49253a62be"
+    }
+  ],
+  "excluded": [],
+  "mapping": {
+    "Tomato Early blight leaf": "Tomato___Early_blight",
+    "Tomato Septoria leaf spot": "Tomato___Septoria_leaf_spot",
+    "Tomato leaf bacterial spot": "Tomato___Bacterial_spot",
+    "Tomato leaf late blight": "Tomato___Late_blight",
+    "Tomato leaf mosaic virus": "Tomato___Tomato_mosaic_virus",
+    "Tomato mold leaf": "Tomato___Leaf_Mold",
+    "Tomato two spotted spider mites leaf": "Tomato___Spider_mites Two-spotted_spider_mite"
+  }
+}

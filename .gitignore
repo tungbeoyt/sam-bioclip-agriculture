@@ -1,0 +1,45 @@
+# Python
+src/__pycache__/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model checkpoints (large files, download separately)
+experiments/checkpoints/
+*.pth
+*.pt
+*.safetensors
+*.bin
+
+# Datasets (download separately)
+data/
+
+# HuggingFace cache
+.cache/
+
+# Training outputs
+experiments/results/*.json
+runs/
+logs/
+*.log
+
+
+# Revision outputs and local artifacts
+experiments/results/
+experiments/v3_completion_audit/
+experiments/v3_final_completion_audit/
+downloads/
+*.pyc
+__pycache__/
+*.zip
+reports/*.docx

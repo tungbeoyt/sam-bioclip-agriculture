@@ -1,0 +1,451 @@
+{
+  "policy": "Minimum mean saved-checkpoint validation CE, including epoch 0; historical test already seen",
+  "selected": [
+    {
+      "best_at_epoch_cap": [
+        2026
+      ],
+      "candidates": [
+        {
+          "head_lr": 0.01,
+          "mean_validation_ce": 1.835532546043396
+        }
+      ],
+      "head_lr": 0.01,
+      "lr_at_boundary": false,
+      "lr_grid": [
+        0.01
+      ],
+      "mean_validation_ce": 1.835532546043396,
+      "runs": [
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v00_lr0.01_s17",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v00_lr0.01_s42",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v00_lr0.01_s2026"
+      ],
+      "variant": {
+        "method": "linear",
+        "placement": "mlp",
+        "rank": 8,
+        "shots": 1,
+        "smoothing": 0.05,
+        "weighting": "sqrt"
+      }
+    },
+    {
+      "best_at_epoch_cap": [],
+      "candidates": [
+        {
+          "head_lr": 0.01,
+          "mean_validation_ce": 1.5023547808329265
+        }
+      ],
+      "head_lr": 0.01,
+      "lr_at_boundary": false,
+      "lr_grid": [
+        0.01
+      ],
+      "mean_validation_ce": 1.5023547808329265,
+      "runs": [
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v01_lr0.01_s17",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v01_lr0.01_s42",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v01_lr0.01_s2026"
+      ],
+      "variant": {
+        "method": "linear",
+        "placement": "mlp",
+        "rank": 8,
+        "shots": 2,
+        "smoothing": 0.05,
+        "weighting": "sqrt"
+      }
+    },
+    {
+      "best_at_epoch_cap": [
+        42,
+        2026
+      ],
+      "candidates": [
+        {
+          "head_lr": 0.01,
+          "mean_validation_ce": 1.1923396984736125
+        }
+      ],
+      "head_lr": 0.01,
+      "lr_at_boundary": false,
+      "lr_grid": [
+        0.01
+      ],
+      "mean_validation_ce": 1.1923396984736125,
+      "runs": [
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v02_lr0.01_s17",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v02_lr0.01_s42",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v02_lr0.01_s2026"
+      ],
+      "variant": {
+        "method": "linear",
+        "placement": "mlp",
+        "rank": 8,
+        "shots": 4,
+        "smoothing": 0.05,
+        "weighting": "sqrt"
+      }
+    },
+    {
+      "best_at_epoch_cap": [],
+      "candidates": [
+        {
+          "head_lr": 0.01,
+          "mean_validation_ce": 0.8546001315116882
+        }
+      ],
+      "head_lr": 0.01,
+      "lr_at_boundary": false,
+      "lr_grid": [
+        0.01
+      ],
+      "mean_validation_ce": 0.8546001315116882,
+      "runs": [
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v03_lr0.01_s17",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v03_lr0.01_s42",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v03_lr0.01_s2026"
+      ],
+      "variant": {
+        "method": "linear",
+        "placement": "mlp",
+        "rank": 8,
+        "shots": 8,
+        "smoothing": 0.05,
+        "weighting": "sqrt"
+      }
+    },
+    {
+      "best_at_epoch_cap": [],
+      "candidates": [
+        {
+          "head_lr": 0.01,
+          "mean_validation_ce": 0.6775020758310953
+        }
+      ],
+      "head_lr": 0.01,
+      "lr_at_boundary": false,
+      "lr_grid": [
+        0.01
+      ],
+      "mean_validation_ce": 0.6775020758310953,
+      "runs": [
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v04_lr0.01_s17",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v04_lr0.01_s42",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v04_lr0.01_s2026"
+      ],
+      "variant": {
+        "method": "linear",
+        "placement": "mlp",
+        "rank": 8,
+        "shots": 16,
+        "smoothing": 0.05,
+        "weighting": "sqrt"
+      }
+    },
+    {
+      "best_at_epoch_cap": [
+        17,
+        42,
+        2026
+      ],
+      "candidates": [
+        {
+          "head_lr": 0.001,
+          "mean_validation_ce": 1.8779906034469604
+        }
+      ],
+      "head_lr": 0.001,
+      "lr_at_boundary": false,
+      "lr_grid": [
+        0.001
+      ],
+      "mean_validation_ce": 1.8779906034469604,
+      "runs": [
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v05_lr0.001_s17",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v05_lr0.001_s42",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v05_lr0.001_s2026"
+      ],
+      "variant": {
+        "method": "lora",
+        "placement": "mlp",
+        "rank": 8,
+        "shots": 1,
+        "smoothing": 0.05,
+        "weighting": "sqrt"
+      }
+    },
+    {
+      "best_at_epoch_cap": [
+        17,
+        2026
+      ],
+      "candidates": [
+        {
+          "head_lr": 0.001,
+          "mean_validation_ce": 1.416823148727417
+        }
+      ],
+      "head_lr": 0.001,
+      "lr_at_boundary": false,
+      "lr_grid": [
+        0.001
+      ],
+      "mean_validation_ce": 1.416823148727417,
+      "runs": [
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v06_lr0.001_s17",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v06_lr0.001_s42",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v06_lr0.001_s2026"
+      ],
+      "variant": {
+        "method": "lora",
+        "placement": "mlp",
+        "rank": 8,
+        "shots": 2,
+        "smoothing": 0.05,
+        "weighting": "sqrt"
+      }
+    },
+    {
+      "best_at_epoch_cap": [
+        17
+      ],
+      "candidates": [
+        {
+          "head_lr": 0.001,
+          "mean_validation_ce": 0.8703623016675314
+        }
+      ],
+      "head_lr": 0.001,
+      "lr_at_boundary": false,
+      "lr_grid": [
+        0.001
+      ],
+      "mean_validation_ce": 0.8703623016675314,
+      "runs": [
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v07_lr0.001_s17",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v07_lr0.001_s42",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v07_lr0.001_s2026"
+      ],
+      "variant": {
+        "method": "lora",
+        "placement": "mlp",
+        "rank": 8,
+        "shots": 4,
+        "smoothing": 0.05,
+        "weighting": "sqrt"
+      }
+    },
+    {
+      "best_at_epoch_cap": [],
+      "candidates": [
+        {
+          "head_lr": 0.001,
+          "mean_validation_ce": 0.4929352402687073
+        }
+      ],
+      "head_lr": 0.001,
+      "lr_at_boundary": false,
+      "lr_grid": [
+        0.001
+      ],
+      "mean_validation_ce": 0.4929352402687073,
+      "runs": [
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v08_lr0.001_s17",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v08_lr0.001_s42",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v08_lr0.001_s2026"
+      ],
+      "variant": {
+        "method": "lora",
+        "placement": "mlp",
+        "rank": 8,
+        "shots": 8,
+        "smoothing": 0.05,
+        "weighting": "sqrt"
+      }
+    },
+    {
+      "best_at_epoch_cap": [],
+      "candidates": [
+        {
+          "head_lr": 0.001,
+          "mean_validation_ce": 0.2934887707233429
+        }
+      ],
+      "head_lr": 0.001,
+      "lr_at_boundary": false,
+      "lr_grid": [
+        0.001
+      ],
+      "mean_validation_ce": 0.2934887707233429,
+      "runs": [
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v09_lr0.001_s17",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v09_lr0.001_s42",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v09_lr0.001_s2026"
+      ],
+      "variant": {
+        "method": "lora",
+        "placement": "mlp",
+        "rank": 8,
+        "shots": 16,
+        "smoothing": 0.05,
+        "weighting": "sqrt"
+      }
+    },
+    {
+      "best_at_epoch_cap": [
+        17,
+        42
+      ],
+      "candidates": [
+        {
+          "head_lr": 0.0003,
+          "mean_validation_ce": 2.160639842351278
+        }
+      ],
+      "head_lr": 0.0003,
+      "lr_at_boundary": false,
+      "lr_grid": [
+        0.0003
+      ],
+      "mean_validation_ce": 2.160639842351278,
+      "runs": [
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v10_lr0.0003_s17",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v10_lr0.0003_s42",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v10_lr0.0003_s2026"
+      ],
+      "variant": {
+        "method": "mobilenetv2",
+        "placement": "mlp",
+        "rank": 8,
+        "shots": 1,
+        "smoothing": 0.05,
+        "weighting": "sqrt"
+      }
+    },
+    {
+      "best_at_epoch_cap": [
+        17,
+        2026
+      ],
+      "candidates": [
+        {
+          "head_lr": 0.0003,
+          "mean_validation_ce": 1.9307530721028645
+        }
+      ],
+      "head_lr": 0.0003,
+      "lr_at_boundary": false,
+      "lr_grid": [
+        0.0003
+      ],
+      "mean_validation_ce": 1.9307530721028645,
+      "runs": [
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v11_lr0.0003_s17",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v11_lr0.0003_s42",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v11_lr0.0003_s2026"
+      ],
+      "variant": {
+        "method": "mobilenetv2",
+        "placement": "mlp",
+        "rank": 8,
+        "shots": 2,
+        "smoothing": 0.05,
+        "weighting": "sqrt"
+      }
+    },
+    {
+      "best_at_epoch_cap": [
+        17,
+        42
+      ],
+      "candidates": [
+        {
+          "head_lr": 0.0003,
+          "mean_validation_ce": 1.4645517667134602
+        }
+      ],
+      "head_lr": 0.0003,
+      "lr_at_boundary": false,
+      "lr_grid": [
+        0.0003
+      ],
+      "mean_validation_ce": 1.4645517667134602,
+      "runs": [
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v12_lr0.0003_s17",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v12_lr0.0003_s42",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v12_lr0.0003_s2026"
+      ],
+      "variant": {
+        "method": "mobilenetv2",
+        "placement": "mlp",
+        "rank": 8,
+        "shots": 4,
+        "smoothing": 0.05,
+        "weighting": "sqrt"
+      }
+    },
+    {
+      "best_at_epoch_cap": [
+        42,
+        2026
+      ],
+      "candidates": [
+        {
+          "head_lr": 0.0003,
+          "mean_validation_ce": 0.8941141764322916
+        }
+      ],
+      "head_lr": 0.0003,
+      "lr_at_boundary": false,
+      "lr_grid": [
+        0.0003
+      ],
+      "mean_validation_ce": 0.8941141764322916,
+      "runs": [
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v13_lr0.0003_s17",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v13_lr0.0003_s42",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v13_lr0.0003_s2026"
+      ],
+      "variant": {
+        "method": "mobilenetv2",
+        "placement": "mlp",
+        "rank": 8,
+        "shots": 8,
+        "smoothing": 0.05,
+        "weighting": "sqrt"
+      }
+    },
+    {
+      "best_at_epoch_cap": [],
+      "candidates": [
+        {
+          "head_lr": 0.0003,
+          "mean_validation_ce": 0.4831312696139018
+        }
+      ],
+      "head_lr": 0.0003,
+      "lr_at_boundary": false,
+      "lr_grid": [
+        0.0003
+      ],
+      "mean_validation_ce": 0.4831312696139018,
+      "runs": [
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v14_lr0.0003_s17",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v14_lr0.0003_s42",
+        "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v3_20261104/fewshot/v14_lr0.0003_s2026"
+      ],
+      "variant": {
+        "method": "mobilenetv2",
+        "placement": "mlp",
+        "rank": 8,
+        "shots": 16,
+        "smoothing": 0.05,
+        "weighting": "sqrt"
+      }
+    }
+  ]
+}

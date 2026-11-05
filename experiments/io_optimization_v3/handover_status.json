@@ -1,0 +1,5 @@
+{
+  "status": "io_optimized_queue_running",
+  "recovery": "Converted run_priority_io.sh from CRLF to LF; bash syntax checked; restarted queue; completed runs preserved",
+  "log": "experiments/v3_priority_io_resume.log"
+}

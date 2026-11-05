@@ -1,0 +1,319 @@
+{
+  "model": "linear",
+  "dataset": "plantdoc",
+  "experiment": {
+    "placement": "mlp",
+    "attention_dropout": 0.0,
+    "method": "linear",
+    "rank": 8,
+    "alpha": 16,
+    "shots": 0,
+    "classifier": "L2-linear",
+    "initialization": "original pretrained weights",
+    "validation_policy": "500 extra source labels",
+    "launcher_sha256": "6d4fc6e40527a8da2f35a57cdf42fbc0dda75bc22d6a9261bf0f0bba6dbd11f7",
+    "base_sha256": "43087a06b615067ef98b65d6cc3cb64cdfe552ec7147c587e2c326fd65acf284",
+    "weighting": "sqrt",
+    "smoothing": 0.05
+  },
+  "source_run": "/home/thanhtung/projects/sam-bioclip-agriculture/experiments/results/revision_v2_conservative_d8/core/v00_lr0.01_s2026",
+  "seed": 2026,
+  "class_scope": [
+    "Tomato___Bacterial_spot",
+    "Tomato___Early_blight",
+    "Tomato___Late_blight",
+    "Tomato___Leaf_Mold",
+    "Tomato___Septoria_leaf_spot",
+    "Tomato___Spider_mites Two-spotted_spider_mite",
+    "Tomato___Tomato_mosaic_virus"
+  ],
+  "protocol": "Original ten-way output; predictions outside target label intersection count as errors",
+  "source_temperature_frozen": true,
+  "zero_shot_target_adaptation": true,
+  "zero_shot_source_training": false,
+  "test_loss": 1.9843101501464844,
+  "test_accuracy": 0.4290657439446367,
+  "macro_precision": 0.41897858111459046,
+  "macro_recall": 0.3363808055804003,
+  "macro_f1": 0.29959661886568195,
+  "weighted_f1": 0.37599882126409173,
+  "balanced_accuracy": 0.3363808055804003,
+  "mcc": 0.31609115045178804,
+  "kappa": 0.29887372816561786,
+  "temperature": 0.4719371563408467,
+  "calibration_fit": "validation only",
+  "uncalibrated": {
+    "nll": 1.9843101501464844,
+    "brier_multiclass_sum": 0.7856262105078576,
+    "ece_15_equal_width_bins": 0.19987709258254427
+  },
+  "calibrated": {
+    "nll": 3.324023723602295,
+    "brier_multiclass_sum": 0.9308448241053867,
+    "ece_15_equal_width_bins": 0.3941619692686107
+  },
+  "classification_report": {
+    "Tomato___Bacterial_spot": {
+      "precision": 0.5714285714285714,
+      "recall": 0.038461538461538464,
+      "f1-score": 0.07207207207207207,
+      "support": 104.0
+    },
+    "Tomato___Early_blight": {
+      "precision": 0.30864197530864196,
+      "recall": 0.6172839506172839,
+      "f1-score": 0.411522633744856,
+      "support": 81.0
+    },
+    "Tomato___Late_blight": {
+      "precision": 0.5616438356164384,
+      "recall": 0.780952380952381,
+      "f1-score": 0.6533864541832669,
+      "support": 105.0
+    },
+    "Tomato___Leaf_Mold": {
+      "precision": 0.7407407407407407,
+      "recall": 0.21978021978021978,
+      "f1-score": 0.3389830508474576,
+      "support": 91.0
+    },
+    "Tomato___Septoria_leaf_spot": {
+      "precision": 0.41706161137440756,
+      "recall": 0.624113475177305,
+      "f1-score": 0.5,
+      "support": 141.0
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 2.0
+    },
+    "Tomato___Target_Spot": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 0.0
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 0.0
+    },
+    "Tomato___Tomato_mosaic_virus": {
+      "precision": 0.3333333333333333,
+      "recall": 0.07407407407407407,
+      "f1-score": 0.12121212121212122,
+      "support": 54.0
+    },
+    "Tomato___healthy": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 0.0
+    },
+    "accuracy": 0.4290657439446367,
+    "macro avg": {
+      "precision": 0.29328500678021335,
+      "recall": 0.2354665639062802,
+      "f1-score": 0.20971763320597736,
+      "support": 578.0
+    },
+    "weighted avg": {
+      "precision": 0.4976025411409971,
+      "recall": 0.4290657439446367,
+      "f1-score": 0.37599882126409173,
+      "support": 578.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      4,
+      28,
+      11,
+      2,
+      53,
+      0,
+      0,
+      1,
+      5,
+      0
+    ],
+    [
+      0,
+      50,
+      7,
+      1,
+      23,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      16,
+      82,
+      0,
+      4,
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      15,
+      36,
+      20,
+      15,
+      0,
+      1,
+      2,
+      2,
+      0
+    ],
+    [
+      1,
+      45,
+      2,
+      2,
+      88,
+      0,
+      0,
+      2,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      8,
+      8,
+      2,
+      26,
+      0,
+      0,
+      5,
+      4,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "evaluation_fingerprint": "5e3a513f7f6622fd27ca41674ffb4ce5de545c820419dbb1ace6a6c2870e7b89",
+  "macro_precision_all10": 0.29328500678021335,
+  "macro_recall_all10": 0.2354665639062802,
+  "macro_f1_all10": 0.20971763320597736,
+  "classification_report_supported_classes": {
+    "Tomato___Bacterial_spot": {
+      "precision": 0.5714285714285714,
+      "recall": 0.038461538461538464,
+      "f1-score": 0.07207207207207207,
+      "support": 104.0
+    },
+    "Tomato___Early_blight": {
+      "precision": 0.30864197530864196,
+      "recall": 0.6172839506172839,
+      "f1-score": 0.411522633744856,
+      "support": 81.0
+    },
+    "Tomato___Late_blight": {
+      "precision": 0.5616438356164384,
+      "recall": 0.780952380952381,
+      "f1-score": 0.6533864541832669,
+      "support": 105.0
+    },
+    "Tomato___Leaf_Mold": {
+      "precision": 0.7407407407407407,
+      "recall": 0.21978021978021978,
+      "f1-score": 0.3389830508474576,
+      "support": 91.0
+    },
+    "Tomato___Septoria_leaf_spot": {
+      "precision": 0.41706161137440756,
+      "recall": 0.624113475177305,
+      "f1-score": 0.5,
+      "support": 141.0
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 2.0
+    },
+    "Tomato___Tomato_mosaic_virus": {
+      "precision": 0.3333333333333333,
+      "recall": 0.07407407407407407,
+      "f1-score": 0.12121212121212122,
+      "support": 54.0
+    },
+    "micro avg": {
+      "precision": 0.4389380530973451,
+      "recall": 0.4290657439446367,
+      "f1-score": 0.4339457567804024,
+      "support": 578.0
+    },
+    "macro avg": {
+      "precision": 0.41897858111459046,
+      "recall": 0.3363808055804003,
+      "f1-score": 0.29959661886568195,
+      "support": 578.0
+    },
+    "weighted avg": {
+      "precision": 0.4976025411409971,
+      "recall": 0.4290657439446367,
+      "f1-score": 0.37599882126409173,
+      "support": 578.0
+    }
+  },
+  "macro_scope": "Only ground truth target classes with positive support; ten-way predictions retained"
+}

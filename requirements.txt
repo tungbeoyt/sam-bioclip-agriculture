@@ -1,0 +1,17 @@
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+segment-anything
+open-clip-torch>=3.0.0
+peft>=0.10.0
+accelerate>=0.30.0
+gradio>=5.0.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.13.0
+tqdm>=4.66.0
+PyYAML>=6.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+pillow>=10.0.0
+huggingface_hub>=0.20.0

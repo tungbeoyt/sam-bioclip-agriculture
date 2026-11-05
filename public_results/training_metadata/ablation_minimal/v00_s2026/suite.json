@@ -1,0 +1,13 @@
+{
+  "placement": "mlp",
+  "attention_dropout": 0.0,
+  "method": "lora",
+  "rank": 4,
+  "alpha": 8,
+  "shots": 0,
+  "classifier": "L2-linear",
+  "initialization": "original pretrained weights",
+  "validation_policy": "500 extra source labels",
+  "launcher_sha256": "6d4fc6e40527a8da2f35a57cdf42fbc0dda75bc22d6a9261bf0f0bba6dbd11f7",
+  "base_sha256": "43087a06b615067ef98b65d6cc3cb64cdfe552ec7147c587e2c326fd65acf284"
+}

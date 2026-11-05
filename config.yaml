@@ -1,0 +1,39 @@
+# 配置文件
+# 配置各数据集路径
+
+data:
+  sam_seg:
+    apple_disease: "data/sam_seg/apple_disease"
+  cls:
+    plantvillage: "data/cls/plantvillage"
+    ip102: "data/cls/ip102"
+# 模型与训练参数
+sam:
+  model_type: "vit_t"  # EfficientSAM: vit_t / vit_s
+  lora:
+    r: 8
+    alpha: 16
+    dropout: 0.1
+
+training:
+  batch_size: 2
+  gradient_accumulation: 4
+  learning_rate: 1e-4
+  num_epochs: 20
+  mixed_precision: "fp16"
+  num_workers: 4
+
+zeroshot:
+  models:
+    - "bioclip"   # BioCLIP ViT-B/16
+    - "clip"      # CLIP ViT-B/16 (对比基线)
+  templates:
+    disease: "一张患有{disease_name}的叶片照片"
+    healthy: "一片健康的{plant_name}叶子"
+    pest: "一只{pest_name}害虫"
+    english: "a photo of a leaf with {disease_name}"
+
+output:
+  checkpoints: "experiments/checkpoints"
+  results: "experiments/results"
+  figures: "experiments/figures"

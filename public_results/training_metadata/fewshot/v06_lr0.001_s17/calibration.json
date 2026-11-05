@@ -1,0 +1,14 @@
+{
+  "temperature": 0.5946035575013605,
+  "fit_split": "val",
+  "before": {
+    "nll": 1.4746761322021484,
+    "brier_multiclass_sum": 0.6313120543995986,
+    "ece_15_equal_width_bins": 0.20092068615555767
+  },
+  "after": {
+    "nll": 1.3370290994644165,
+    "brier_multiclass_sum": 0.582829732775581,
+    "ece_15_equal_width_bins": 0.06335596223175524
+  }
+}
